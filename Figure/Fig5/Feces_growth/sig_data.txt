@@ -1,0 +1,366 @@
+par	.y.	group1	group2	p	p.adj	p.format	p.signif	method	y
+r	value	Control	Canagliflozin	2.63332070968232e-05	0.00013	2.6e-05	****	T-test	
+r	value	Control	Cyclosporine	0.00663118394687037	0.017	0.0066	**	T-test	
+r	value	Control	Enasidenib	0.00182316270167922	0.0061	0.0018	**	T-test	
+r	value	Control	Galantamine	0.544880793828134	0.61	0.5449	ns	T-test	
+r	value	Control	Mercaptopurine	0.0091651163083334	0.018	0.0092	**	T-test	
+r	value	Control	Methotrexate	2.29186234994514e-05	0.00013	2.3e-05	****	T-test	
+r	value	Control	Sirolimus	0.0148238314453725	0.025	0.0148	*	T-test	
+r	value	Control	Teriflunomide	0.0594342135433082	0.085	0.0594	ns	T-test	
+r	value	Control	Valproic acid	0.687642035015496	0.69	0.6876	ns	T-test	
+r	value	Control	Vildagliptin	0.491287945302433	0.61	0.4913	ns	T-test	
+k	value	Control	Canagliflozin	0.00209075672820119	0.01	0.0021	**	T-test	
+k	value	Control	Cyclosporine	0.742042635274541	0.82	0.7420	ns	T-test	
+k	value	Control	Enasidenib	0.00429128526643357	0.014	0.0043	**	T-test	
+k	value	Control	Galantamine	0.509262288316451	0.64	0.5093	ns	T-test	
+k	value	Control	Mercaptopurine	0.832554855053384	0.83	0.8326	ns	T-test	
+k	value	Control	Methotrexate	0.000598926896857146	0.006	0.0006	***	T-test	
+k	value	Control	Sirolimus	0.013853945259816	0.035	0.0139	*	T-test	
+k	value	Control	Teriflunomide	0.457876218493129	0.64	0.4579	ns	T-test	
+k	value	Control	Valproic acid	0.26823267461982	0.45	0.2682	ns	T-test	
+k	value	Control	Vildagliptin	0.123517193651602	0.25	0.1235	ns	T-test	
+auc_l	value	Control	Canagliflozin	1.32672653522828e-05	0.00013	1.3e-05	****	T-test	
+auc_l	value	Control	Cyclosporine	0.257182516248008	0.37	0.25718	ns	T-test	
+auc_l	value	Control	Enasidenib	0.0981518693863055	0.25	0.09815	ns	T-test	
+auc_l	value	Control	Galantamine	0.654287670970867	0.65	0.65429	ns	T-test	
+auc_l	value	Control	Mercaptopurine	0.602344045619444	0.65	0.60234	ns	T-test	
+auc_l	value	Control	Methotrexate	0.000282225458708295	0.0014	0.00028	***	T-test	
+auc_l	value	Control	Sirolimus	0.0298161755776639	0.099	0.02982	*	T-test	
+auc_l	value	Control	Teriflunomide	0.253685170814876	0.37	0.25369	ns	T-test	
+auc_l	value	Control	Valproic acid	0.42739714034751	0.53	0.42740	ns	T-test	
+auc_l	value	Control	Vildagliptin	0.154363503218109	0.31	0.15436	ns	T-test	
+auc_e	value	Control	Canagliflozin	1.01161734381834e-05	1e-04	1e-05	****	T-test	
+auc_e	value	Control	Cyclosporine	0.247934071668646	0.35	0.24793	ns	T-test	
+auc_e	value	Control	Enasidenib	0.0972401782756414	0.24	0.09724	ns	T-test	
+auc_e	value	Control	Galantamine	0.66762901965549	0.67	0.66763	ns	T-test	
+auc_e	value	Control	Mercaptopurine	0.539701050631075	0.6	0.53970	ns	T-test	
+auc_e	value	Control	Methotrexate	0.000294253254124815	0.0015	0.00029	***	T-test	
+auc_e	value	Control	Sirolimus	0.0308127822326037	0.1	0.03081	*	T-test	
+auc_e	value	Control	Teriflunomide	0.231464917677708	0.35	0.23146	ns	T-test	
+auc_e	value	Control	Valproic acid	0.42666411962244	0.53	0.42666	ns	T-test	
+auc_e	value	Control	Vildagliptin	0.151831398986576	0.3	0.15183	ns	T-test	
+t_mid	value	Control	Canagliflozin	1.21408650281903e-07	6.1e-07	1.2e-07	****	T-test	
+t_mid	value	Control	Cyclosporine	0.000318985243280035	0.00084	0.00032	***	T-test	
+t_mid	value	Control	Enasidenib	1.02786052465992e-07	6.1e-07	1.0e-07	****	T-test	
+t_mid	value	Control	Galantamine	0.0671199264758689	0.084	0.06712	ns	T-test	
+t_mid	value	Control	Mercaptopurine	0.000394495409139829	0.00084	0.00039	***	T-test	
+t_mid	value	Control	Methotrexate	0.3359167409438	0.34	0.33592	ns	T-test	
+t_mid	value	Control	Sirolimus	0.000421904196620772	0.00084	0.00042	***	T-test	
+t_mid	value	Control	Teriflunomide	0.0165596772587811	0.024	0.01656	*	T-test	
+t_mid	value	Control	Valproic acid	0.00699540322081451	0.012	0.00700	**	T-test	
+t_mid	value	Control	Vildagliptin	0.100542952893341	0.11	0.10054	ns	T-test	
+r	value	Control	Capecitabine	0.143173247700608	0.33	0.14317	ns	T-test	3
+r	value	Control	Miglitol	0.444765728372646	0.68	0.44477	ns	T-test	3
+r	value	Control	Panobinostat	0.298163326955182	0.57	0.29816	ns	T-test	3
+r	value	Control	Tafamidis	0.0262535401779903	0.14	0.02625	*	T-test	3
+r	value	Control	Tegafur	0.910808578775936	0.91	0.91081	ns	T-test	3
+r	value	Control	Tolcapone	0.174919354377366	0.37	0.17492	ns	T-test	3
+r	value	Control	Ursodeoxycholic acid	0.738934830139464	0.82	0.73893	ns	T-test	3
+r	value	Control	Celecoxib	0.141452961900234	0.33	0.14145	ns	T-test	2
+r	value	Control	Chenodeoxycholic acid	0.50832380353622	0.68	0.50832	ns	T-test	2
+r	value	Control	Dasatinib	0.708455493191709	0.82	0.70846	ns	T-test	2
+r	value	Control	Entacapone	0.000287904323256325	0.006	0.00029	***	T-test	2
+r	value	Control	Fluorouracil	0.50353345801017	0.68	0.50353	ns	T-test	2
+r	value	Control	Indomethacin	0.0857735939541896	0.33	0.08577	ns	T-test	2
+r	value	Control	Mycophenolic acid	0.00282541742814066	0.03	0.00283	**	T-test	2
+r	value	Control	Donepezil	0.676224468643412	0.82	0.67622	ns	T-test	1
+r	value	Control	Etacrynic acid	0.119591006289139	0.33	0.11959	ns	T-test	1
+r	value	Control	Levocarnitine	0.778502740824218	0.82	0.77850	ns	T-test	1
+r	value	Control	Melatonin	0.515693361782847	0.68	0.51569	ns	T-test	1
+r	value	Control	Sulfasalazine	0.016213779392179	0.11	0.01621	*	T-test	1
+r	value	Control	Valdecoxib	0.114117991723235	0.33	0.11412	ns	T-test	1
+r	value	Control	Xanthinol	0.344402933377567	0.6	0.34440	ns	T-test	1
+k	value	Control	Capecitabine	0.0161278729104381	0.028	0.01613	*	T-test	3
+k	value	Control	Miglitol	0.0048314828459709	0.011	0.00483	**	T-test	3
+k	value	Control	Panobinostat	0.129232578215023	0.14	0.12923	ns	T-test	3
+k	value	Control	Tafamidis	0.000139747048911673	0.00097	0.00014	***	T-test	3
+k	value	Control	Tegafur	0.0387320928543604	0.051	0.03873	*	T-test	3
+k	value	Control	Tolcapone	0.000213406076974709	0.00097	0.00021	***	T-test	3
+k	value	Control	Ursodeoxycholic acid	0.0438100023749376	0.054	0.04381	*	T-test	3
+k	value	Control	Celecoxib	0.00161632810872826	0.0046	0.00162	**	T-test	2
+k	value	Control	Chenodeoxycholic acid	0.00117250026644951	0.0041	0.00117	**	T-test	2
+k	value	Control	Dasatinib	0.010267748922415	0.02	0.01027	*	T-test	2
+k	value	Control	Entacapone	0.00539237957586073	0.011	0.00539	**	T-test	2
+k	value	Control	Fluorouracil	4.90427011352342e-06	5.1e-05	4.9e-06	****	T-test	2
+k	value	Control	Indomethacin	4.2931449103818e-06	5.1e-05	4.3e-06	****	T-test	2
+k	value	Control	Mycophenolic acid	0.000230860507367995	0.00097	0.00023	***	T-test	2
+k	value	Control	Donepezil	0.0337883301825748	0.051	0.03379	*	T-test	1
+k	value	Control	Etacrynic acid	0.036955323211925	0.051	0.03696	*	T-test	1
+k	value	Control	Levocarnitine	0.73124295160453	0.73	0.73124	ns	T-test	1
+k	value	Control	Melatonin	0.129042309295646	0.14	0.12904	ns	T-test	1
+k	value	Control	Sulfasalazine	0.00173612717318799	0.0046	0.00174	**	T-test	1
+k	value	Control	Valdecoxib	0.0341115679337605	0.051	0.03411	*	T-test	1
+k	value	Control	Xanthinol	0.314137090264769	0.33	0.31414	ns	T-test	1
+auc_l	value	Control	Capecitabine	0.0245977332942658	0.036	0.02460	*	T-test	3
+auc_l	value	Control	Miglitol	0.00858516919149237	0.016	0.00859	**	T-test	3
+auc_l	value	Control	Panobinostat	0.13821080483215	0.16	0.13821	ns	T-test	3
+auc_l	value	Control	Tafamidis	1.91520654663953e-05	8e-05	1.9e-05	****	T-test	3
+auc_l	value	Control	Tegafur	0.0160350730911067	0.026	0.01604	*	T-test	3
+auc_l	value	Control	Tolcapone	3.35704548988529e-06	2.3e-05	3.4e-06	****	T-test	3
+auc_l	value	Control	Ursodeoxycholic acid	0.0136773896163137	0.024	0.01368	*	T-test	3
+auc_l	value	Control	Celecoxib	0.000828393861445725	0.0019	0.00083	***	T-test	2
+auc_l	value	Control	Chenodeoxycholic acid	0.000153723901566639	0.00054	0.00015	***	T-test	2
+auc_l	value	Control	Dasatinib	0.00366968267891448	0.0077	0.00367	**	T-test	2
+auc_l	value	Control	Entacapone	1.90943287526559e-05	8e-05	1.9e-05	****	T-test	2
+auc_l	value	Control	Fluorouracil	2.67109402105402e-06	2.3e-05	2.7e-06	****	T-test	2
+auc_l	value	Control	Indomethacin	2.74982863941107e-06	2.3e-05	2.7e-06	****	T-test	2
+auc_l	value	Control	Mycophenolic acid	0.00021856031557647	0.00066	0.00022	***	T-test	2
+auc_l	value	Control	Donepezil	0.0373505197271881	0.049	0.03735	*	T-test	1
+auc_l	value	Control	Etacrynic acid	0.0254416894802126	0.036	0.02544	*	T-test	1
+auc_l	value	Control	Levocarnitine	0.747744792960225	0.75	0.74774	ns	T-test	1
+auc_l	value	Control	Melatonin	0.14796320066486	0.16	0.14796	ns	T-test	1
+auc_l	value	Control	Sulfasalazine	0.00036347774470694	0.00095	0.00036	***	T-test	1
+auc_l	value	Control	Valdecoxib	0.0548378664368032	0.068	0.05484	ns	T-test	1
+auc_l	value	Control	Xanthinol	0.358219524674219	0.38	0.35822	ns	T-test	1
+auc_e	value	Control	Capecitabine	0.0199148129232438	0.03	0.01991	*	T-test	3
+auc_e	value	Control	Miglitol	0.0100805121104258	0.019	0.01008	*	T-test	3
+auc_e	value	Control	Panobinostat	0.151022904602319	0.18	0.15102	ns	T-test	3
+auc_e	value	Control	Tafamidis	7.76724653611172e-06	4.1e-05	7.8e-06	****	T-test	3
+auc_e	value	Control	Tegafur	0.0162723819632104	0.026	0.01627	*	T-test	3
+auc_e	value	Control	Tolcapone	2.63314019774099e-06	2e-05	2.6e-06	****	T-test	3
+auc_e	value	Control	Ursodeoxycholic acid	0.0143756575344389	0.025	0.01438	*	T-test	3
+auc_e	value	Control	Celecoxib	0.00128433449626929	0.003	0.00128	**	T-test	2
+auc_e	value	Control	Chenodeoxycholic acid	0.000145258662204435	0.00051	0.00015	***	T-test	2
+auc_e	value	Control	Dasatinib	0.00204525250745354	0.0043	0.00205	**	T-test	2
+auc_e	value	Control	Entacapone	1.63277226863767e-05	6.9e-05	1.6e-05	****	T-test	2
+auc_e	value	Control	Fluorouracil	2.52165605525854e-06	2e-05	2.5e-06	****	T-test	2
+auc_e	value	Control	Indomethacin	2.8901267005281e-06	2e-05	2.9e-06	****	T-test	2
+auc_e	value	Control	Mycophenolic acid	0.000379800295577045	0.001	0.00038	***	T-test	2
+auc_e	value	Control	Donepezil	0.029371289823877	0.039	0.02937	*	T-test	1
+auc_e	value	Control	Etacrynic acid	0.0222428525088052	0.031	0.02224	*	T-test	1
+auc_e	value	Control	Levocarnitine	0.828377671483343	0.83	0.82838	ns	T-test	1
+auc_e	value	Control	Melatonin	0.201552805341164	0.22	0.20155	ns	T-test	1
+auc_e	value	Control	Sulfasalazine	0.000311238270974595	0.00093	0.00031	***	T-test	1
+auc_e	value	Control	Valdecoxib	0.0713706531783382	0.088	0.07137	ns	T-test	1
+auc_e	value	Control	Xanthinol	0.457638690575243	0.48	0.45764	ns	T-test	1
+t_mid	value	Control	Capecitabine	0.0321154920340321	0.096	0.03212	*	T-test	3
+t_mid	value	Control	Miglitol	0.180399680419605	0.27	0.18040	ns	T-test	3
+t_mid	value	Control	Panobinostat	0.148630174496771	0.26	0.14863	ns	T-test	3
+t_mid	value	Control	Tafamidis	0.000159103932529813	0.0011	0.00016	***	T-test	3
+t_mid	value	Control	Tegafur	0.240644819983147	0.32	0.24064	ns	T-test	3
+t_mid	value	Control	Tolcapone	0.00173306043655234	0.0061	0.00173	**	T-test	3
+t_mid	value	Control	Ursodeoxycholic acid	0.00130149193552562	0.0055	0.00130	**	T-test	3
+t_mid	value	Control	Celecoxib	0.120909956405372	0.23	0.12091	ns	T-test	2
+t_mid	value	Control	Chenodeoxycholic acid	0.000629369101065393	0.0033	0.00063	***	T-test	2
+t_mid	value	Control	Dasatinib	0.104851360466637	0.22	0.10485	ns	T-test	2
+t_mid	value	Control	Entacapone	1.43022356460535e-08	3e-07	1.4e-08	****	T-test	2
+t_mid	value	Control	Fluorouracil	0.0661872033547023	0.15	0.06619	ns	T-test	2
+t_mid	value	Control	Indomethacin	0.158584744366549	0.26	0.15858	ns	T-test	2
+t_mid	value	Control	Mycophenolic acid	0.214600245050654	0.3	0.21460	ns	T-test	2
+t_mid	value	Control	Donepezil	0.75157533080536	0.88	0.75158	ns	T-test	1
+t_mid	value	Control	Etacrynic acid	0.0642091988001033	0.15	0.06421	ns	T-test	1
+t_mid	value	Control	Levocarnitine	0.955534622734886	0.99	0.95553	ns	T-test	1
+t_mid	value	Control	Melatonin	0.991798519781687	0.99	0.99180	ns	T-test	1
+t_mid	value	Control	Sulfasalazine	0.000122838329628788	0.0011	0.00012	***	T-test	1
+t_mid	value	Control	Valdecoxib	0.327851834450078	0.4	0.32785	ns	T-test	1
+t_mid	value	Control	Xanthinol	0.922921797168236	0.99	0.92292	ns	T-test	1
+r	value	Control	Allopurinol	0.132293007066544	0.29	0.1323	ns	T-test	3
+r	value	Control	Azathioprine	0.00542897184152387	0.057	0.0054	**	T-test	3
+r	value	Control	Mycophenolate mofetil	0.157407724461369	0.29	0.1574	ns	T-test	3
+r	value	Control	Simvastatin	0.0163744220603081	0.11	0.0164	*	T-test	3
+r	value	Control	Tacrine	0.601363704421402	0.63	0.6014	ns	T-test	3
+r	value	Control	Tacrolimus	0.382485695425215	0.5	0.3825	ns	T-test	3
+r	value	Control	Topiramate	0.430025794382848	0.5	0.4300	ns	T-test	3
+r	value	Control	Alogliptin	0.458986071335295	0.51	0.4590	ns	T-test	2
+r	value	Control	Chlorothiazide	0.0810742218789915	0.29	0.0811	ns	T-test	2
+r	value	Control	Dapagliflozin	0.686271175734414	0.69	0.6863	ns	T-test	2
+r	value	Control	Febuxostat	0.0028193390899943	0.057	0.0028	**	T-test	2
+r	value	Control	Fludarabine	0.270825232338458	0.38	0.2708	ns	T-test	2
+r	value	Control	Hydroxyurea	0.225510358670101	0.34	0.2255	ns	T-test	2
+r	value	Control	Zonisamide	0.165435799373096	0.29	0.1654	ns	T-test	2
+r	value	Control	Chlorthalidone	0.118159635220395	0.29	0.1182	ns	T-test	1
+r	value	Control	Finasteride	0.422669056419109	0.5	0.4227	ns	T-test	1
+r	value	Control	Gimeracil	0.164397901952347	0.29	0.1644	ns	T-test	1
+r	value	Control	Ivosidenib	0.196949510488583	0.32	0.1969	ns	T-test	1
+r	value	Control	Lovastatin	0.125060862565902	0.29	0.1251	ns	T-test	1
+r	value	Control	Pentoxifylline	0.0920608071660601	0.29	0.0921	ns	T-test	1
+r	value	Control	Stiripentol	0.0340846414368436	0.18	0.0341	*	T-test	1
+k	value	Control	Allopurinol	0.518997708034145	0.64	0.51900	ns	T-test	3
+k	value	Control	Azathioprine	0.695225921791991	0.73	0.69523	ns	T-test	3
+k	value	Control	Mycophenolate mofetil	0.138140264547403	0.29	0.13814	ns	T-test	3
+k	value	Control	Simvastatin	0.0881349715233437	0.26	0.08813	ns	T-test	3
+k	value	Control	Tacrine	0.369546668653816	0.52	0.36955	ns	T-test	3
+k	value	Control	Tacrolimus	0.151410170932425	0.29	0.15141	ns	T-test	3
+k	value	Control	Topiramate	0.0863500637323482	0.26	0.08635	ns	T-test	3
+k	value	Control	Alogliptin	0.327957470524725	0.52	0.32796	ns	T-test	2
+k	value	Control	Chlorothiazide	0.126361797069833	0.29	0.12636	ns	T-test	2
+k	value	Control	Dapagliflozin	0.0320230329494209	0.15	0.03202	*	T-test	2
+k	value	Control	Febuxostat	0.107689144100708	0.28	0.10769	ns	T-test	2
+k	value	Control	Fludarabine	0.000836625559637623	0.0088	0.00084	***	T-test	2
+k	value	Control	Hydroxyurea	0.696362346356605	0.73	0.69636	ns	T-test	2
+k	value	Control	Zonisamide	0.879625873512602	0.88	0.87963	ns	T-test	2
+k	value	Control	Chlorthalidone	0.356096013247195	0.52	0.35610	ns	T-test	1
+k	value	Control	Finasteride	0.367176504216271	0.52	0.36718	ns	T-test	1
+k	value	Control	Gimeracil	0.0365214535565179	0.15	0.03652	*	T-test	1
+k	value	Control	Ivosidenib	0.000435627989980159	0.0088	0.00044	***	T-test	1
+k	value	Control	Lovastatin	0.517782228588239	0.64	0.51778	ns	T-test	1
+k	value	Control	Pentoxifylline	0.5909821944888	0.69	0.59098	ns	T-test	1
+k	value	Control	Stiripentol	0.00303266280831696	0.021	0.00303	**	T-test	1
+auc_l	value	Control	Allopurinol	0.181644583671801	0.28	0.18164	ns	T-test	3
+auc_l	value	Control	Azathioprine	0.118502781217872	0.23	0.11850	ns	T-test	3
+auc_l	value	Control	Mycophenolate mofetil	0.0210293502300478	0.074	0.02103	*	T-test	3
+auc_l	value	Control	Simvastatin	0.00368877858613818	0.019	0.00369	**	T-test	3
+auc_l	value	Control	Tacrine	0.509036177440209	0.53	0.50904	ns	T-test	3
+auc_l	value	Control	Tacrolimus	0.0561675728611599	0.15	0.05617	ns	T-test	3
+auc_l	value	Control	Topiramate	0.0776188042169333	0.16	0.07762	ns	T-test	3
+auc_l	value	Control	Alogliptin	0.497855856430015	0.53	0.49786	ns	T-test	2
+auc_l	value	Control	Chlorothiazide	0.502341639006347	0.53	0.50234	ns	T-test	2
+auc_l	value	Control	Dapagliflozin	0.0502852960046315	0.15	0.05029	ns	T-test	2
+auc_l	value	Control	Febuxostat	0.00598712810499088	0.025	0.00599	**	T-test	2
+auc_l	value	Control	Fludarabine	0.000200347659123349	0.0021	0.00020	***	T-test	2
+auc_l	value	Control	Hydroxyurea	0.186082197888887	0.28	0.18608	ns	T-test	2
+auc_l	value	Control	Zonisamide	0.477286267824559	0.53	0.47729	ns	T-test	2
+auc_l	value	Control	Chlorthalidone	0.628991279288845	0.63	0.62899	ns	T-test	1
+auc_l	value	Control	Finasteride	0.279759886209285	0.37	0.27976	ns	T-test	1
+auc_l	value	Control	Gimeracil	0.0689421250912762	0.16	0.06894	ns	T-test	1
+auc_l	value	Control	Ivosidenib	0.000683298759444488	0.0048	0.00068	***	T-test	1
+auc_l	value	Control	Lovastatin	0.28191445499683	0.37	0.28191	ns	T-test	1
+auc_l	value	Control	Pentoxifylline	0.163122793611235	0.28	0.16312	ns	T-test	1
+auc_l	value	Control	Stiripentol	7.61306636980097e-05	0.0016	7.6e-05	****	T-test	1
+auc_e	value	Control	Allopurinol	0.186572033430755	0.28	0.18657	ns	T-test	3
+auc_e	value	Control	Azathioprine	0.11690294359736	0.22	0.11690	ns	T-test	3
+auc_e	value	Control	Mycophenolate mofetil	0.021391016588766	0.075	0.02139	*	T-test	3
+auc_e	value	Control	Simvastatin	0.00361775043576772	0.019	0.00362	**	T-test	3
+auc_e	value	Control	Tacrine	0.483621463256895	0.55	0.48362	ns	T-test	3
+auc_e	value	Control	Tacrolimus	0.0599373909963127	0.16	0.05994	ns	T-test	3
+auc_e	value	Control	Topiramate	0.076981390235868	0.16	0.07698	ns	T-test	3
+auc_e	value	Control	Alogliptin	0.522962465560407	0.55	0.52296	ns	T-test	2
+auc_e	value	Control	Chlorothiazide	0.520043736363519	0.55	0.52004	ns	T-test	2
+auc_e	value	Control	Dapagliflozin	0.0550093972417689	0.16	0.05501	ns	T-test	2
+auc_e	value	Control	Febuxostat	0.00556694316517232	0.023	0.00557	**	T-test	2
+auc_e	value	Control	Fludarabine	0.000222124951435702	0.0023	0.00022	***	T-test	2
+auc_e	value	Control	Hydroxyurea	0.168850230169983	0.27	0.16885	ns	T-test	2
+auc_e	value	Control	Zonisamide	0.461038372797626	0.55	0.46104	ns	T-test	2
+auc_e	value	Control	Chlorthalidone	0.612748789130332	0.61	0.61275	ns	T-test	1
+auc_e	value	Control	Finasteride	0.288721033014888	0.4	0.28872	ns	T-test	1
+auc_e	value	Control	Gimeracil	0.0700115455757516	0.16	0.07001	ns	T-test	1
+auc_e	value	Control	Ivosidenib	0.00069347563095361	0.0049	0.00069	***	T-test	1
+auc_e	value	Control	Lovastatin	0.313129293877629	0.41	0.31313	ns	T-test	1
+auc_e	value	Control	Pentoxifylline	0.169530756514039	0.27	0.16953	ns	T-test	1
+auc_e	value	Control	Stiripentol	8.10388612678448e-05	0.0017	8.1e-05	****	T-test	1
+t_mid	value	Control	Allopurinol	0.0218045800629895	0.057	0.0218	*	T-test	3
+t_mid	value	Control	Azathioprine	0.00306822496180649	0.014	0.0031	**	T-test	3
+t_mid	value	Control	Mycophenolate mofetil	0.00344473189611175	0.014	0.0034	**	T-test	3
+t_mid	value	Control	Simvastatin	4.76061847043911e-07	1e-05	4.8e-07	****	T-test	3
+t_mid	value	Control	Tacrine	0.161062019826421	0.23	0.1611	ns	T-test	3
+t_mid	value	Control	Tacrolimus	0.202052985484041	0.27	0.2021	ns	T-test	3
+t_mid	value	Control	Topiramate	0.292450917252982	0.32	0.2925	ns	T-test	3
+t_mid	value	Control	Alogliptin	0.250416012324702	0.31	0.2504	ns	T-test	2
+t_mid	value	Control	Chlorothiazide	0.0450619121431424	0.11	0.0451	*	T-test	2
+t_mid	value	Control	Dapagliflozin	0.595466620825408	0.6	0.5955	ns	T-test	2
+t_mid	value	Control	Febuxostat	1.05235255782536e-05	7.4e-05	1.1e-05	****	T-test	2
+t_mid	value	Control	Fludarabine	0.562196231154539	0.59	0.5622	ns	T-test	2
+t_mid	value	Control	Hydroxyurea	0.099820127250264	0.16	0.0998	ns	T-test	2
+t_mid	value	Control	Zonisamide	0.131110462666515	0.2	0.1311	ns	T-test	2
+t_mid	value	Control	Chlorthalidone	0.0701219529439562	0.12	0.0701	ns	T-test	1
+t_mid	value	Control	Finasteride	0.284307917247014	0.32	0.2843	ns	T-test	1
+t_mid	value	Control	Gimeracil	0.0695341505099128	0.12	0.0695	ns	T-test	1
+t_mid	value	Control	Ivosidenib	0.00947461363573147	0.028	0.0095	**	T-test	1
+t_mid	value	Control	Lovastatin	0.00508342306805142	0.018	0.0051	**	T-test	1
+t_mid	value	Control	Pentoxifylline	0.0556649375147661	0.12	0.0557	ns	T-test	1
+t_mid	value	Control	Stiripentol	7.35918489497602e-06	7.4e-05	7.4e-06	****	T-test	1
+r	value	Control	Acarbose	0.0160616029005893	0.17	0.0161	*	T-test	3
+r	value	Control	Dutasteride	0.102599944622989	0.35	0.1026	ns	T-test	3
+r	value	Control	Levamlodipine	0.900089924293419	0.95	0.9001	ns	T-test	3
+r	value	Control	Linagliptin	0.255601574835047	0.54	0.2556	ns	T-test	3
+r	value	Control	Pitavastatin	0.538335760207946	0.75	0.5383	ns	T-test	3
+r	value	Control	Ranitidine	0.953183144180189	0.95	0.9532	ns	T-test	3
+r	value	Control	Saxagliptin	0.344775339103346	0.6	0.3448	ns	T-test	3
+r	value	Control	Atorvastatin	0.753605747216284	0.88	0.7536	ns	T-test	2
+r	value	Control	Bendroflumethiazide	0.45040956544338	0.7	0.4504	ns	T-test	2
+r	value	Control	Didanosine	0.738172800606723	0.88	0.7382	ns	T-test	2
+r	value	Control	Empagliflozin	0.343181853949472	0.6	0.3432	ns	T-test	2
+r	value	Control	Estradiol	0.884244718789084	0.95	0.8842	ns	T-test	2
+r	value	Control	Guanidine	0.467892218489209	0.7	0.4679	ns	T-test	2
+r	value	Control	Pyrimethamine	0.196181631363051	0.51	0.1962	ns	T-test	2
+r	value	Control	Cladribine	0.234427978711525	0.54	0.2344	ns	T-test	1
+r	value	Control	Lacosamide	0.117826643765438	0.35	0.1178	ns	T-test	1
+r	value	Control	Leflunomide	0.00328456472852985	0.069	0.0033	**	T-test	1
+r	value	Control	Metformin	0.0929337602420914	0.35	0.0929	ns	T-test	1
+r	value	Control	Rivastigmine	0.0933699101811429	0.35	0.0934	ns	T-test	1
+r	value	Control	Rosuvastatin	0.747322748257206	0.88	0.7473	ns	T-test	1
+r	value	Control	Trifluridine	0.0525288389080553	0.35	0.0525	ns	T-test	1
+k	value	Control	Acarbose	0.0902704686697808	0.19	0.0903	ns	T-test	3
+k	value	Control	Dutasteride	0.0487490618552192	0.15	0.0487	*	T-test	3
+k	value	Control	Levamlodipine	0.300323691267363	0.45	0.3003	ns	T-test	3
+k	value	Control	Linagliptin	0.07151486275649	0.19	0.0715	ns	T-test	3
+k	value	Control	Pitavastatin	0.0813465875701158	0.19	0.0813	ns	T-test	3
+k	value	Control	Ranitidine	0.805951389387851	0.85	0.8060	ns	T-test	3
+k	value	Control	Saxagliptin	0.729056548382624	0.85	0.7291	ns	T-test	3
+k	value	Control	Atorvastatin	0.0497689849459352	0.15	0.0498	*	T-test	2
+k	value	Control	Bendroflumethiazide	0.203327004514979	0.37	0.2033	ns	T-test	2
+k	value	Control	Didanosine	0.00398269816429655	0.028	0.0040	**	T-test	2
+k	value	Control	Empagliflozin	0.267126201634301	0.43	0.2671	ns	T-test	2
+k	value	Control	Estradiol	0.515238530840312	0.68	0.5152	ns	T-test	2
+k	value	Control	Guanidine	0.0487399823183734	0.15	0.0487	*	T-test	2
+k	value	Control	Pyrimethamine	0.00130627243052884	0.018	0.0013	**	T-test	2
+k	value	Control	Cladribine	0.864527568673231	0.86	0.8645	ns	T-test	1
+k	value	Control	Lacosamide	0.666588041364425	0.82	0.6666	ns	T-test	1
+k	value	Control	Leflunomide	0.0491724002658501	0.15	0.0492	*	T-test	1
+k	value	Control	Metformin	0.480300689734128	0.67	0.4803	ns	T-test	1
+k	value	Control	Rivastigmine	0.00173543950158729	0.018	0.0017	**	T-test	1
+k	value	Control	Rosuvastatin	0.209546839897031	0.37	0.2095	ns	T-test	1
+k	value	Control	Trifluridine	0.787202222794222	0.85	0.7872	ns	T-test	1
+auc_l	value	Control	Acarbose	0.145004592840153	0.28	0.14500	ns	T-test	3
+auc_l	value	Control	Dutasteride	0.029051358549878	0.12	0.02905	*	T-test	3
+auc_l	value	Control	Levamlodipine	0.264584717894253	0.4	0.26458	ns	T-test	3
+auc_l	value	Control	Linagliptin	0.0774845853958124	0.21	0.07748	ns	T-test	3
+auc_l	value	Control	Pitavastatin	0.0786099174835055	0.21	0.07861	ns	T-test	3
+auc_l	value	Control	Ranitidine	0.754472217544745	0.75	0.75447	ns	T-test	3
+auc_l	value	Control	Saxagliptin	0.357787193414428	0.44	0.35779	ns	T-test	3
+auc_l	value	Control	Atorvastatin	0.0359964643033569	0.13	0.03600	*	T-test	2
+auc_l	value	Control	Bendroflumethiazide	0.0901678406540581	0.21	0.09017	ns	T-test	2
+auc_l	value	Control	Didanosine	0.00224601701410136	0.016	0.00225	**	T-test	2
+auc_l	value	Control	Empagliflozin	0.446856810804414	0.47	0.44686	ns	T-test	2
+auc_l	value	Control	Estradiol	0.39781847006063	0.44	0.39782	ns	T-test	2
+auc_l	value	Control	Guanidine	0.0192070836512286	0.1	0.01921	*	T-test	2
+auc_l	value	Control	Pyrimethamine	0.000142615249357917	0.003	0.00014	***	T-test	2
+auc_l	value	Control	Cladribine	0.380310272672839	0.44	0.38031	ns	T-test	1
+auc_l	value	Control	Lacosamide	0.309190072412194	0.43	0.30919	ns	T-test	1
+auc_l	value	Control	Leflunomide	0.00204913124034816	0.016	0.00205	**	T-test	1
+auc_l	value	Control	Metformin	0.175021375568958	0.31	0.17502	ns	T-test	1
+auc_l	value	Control	Rivastigmine	0.108073217945435	0.23	0.10807	ns	T-test	1
+auc_l	value	Control	Rosuvastatin	0.189943841126076	0.31	0.18994	ns	T-test	1
+auc_l	value	Control	Trifluridine	0.357451936381845	0.44	0.35745	ns	T-test	1
+auc_e	value	Control	Acarbose	0.147106978380395	0.28	0.14711	ns	T-test	3
+auc_e	value	Control	Dutasteride	0.0287197584418864	0.12	0.02872	*	T-test	3
+auc_e	value	Control	Levamlodipine	0.264690934250576	0.4	0.26469	ns	T-test	3
+auc_e	value	Control	Linagliptin	0.0781229174053874	0.21	0.07812	ns	T-test	3
+auc_e	value	Control	Pitavastatin	0.0791911376225585	0.21	0.07919	ns	T-test	3
+auc_e	value	Control	Ranitidine	0.758127741067716	0.76	0.75813	ns	T-test	3
+auc_e	value	Control	Saxagliptin	0.355413648061926	0.43	0.35541	ns	T-test	3
+auc_e	value	Control	Atorvastatin	0.0363900207572317	0.13	0.03639	*	T-test	2
+auc_e	value	Control	Bendroflumethiazide	0.089123889621669	0.21	0.08912	ns	T-test	2
+auc_e	value	Control	Didanosine	0.00221580810950107	0.016	0.00222	**	T-test	2
+auc_e	value	Control	Empagliflozin	0.444345360738442	0.47	0.44435	ns	T-test	2
+auc_e	value	Control	Estradiol	0.393473105139411	0.43	0.39347	ns	T-test	2
+auc_e	value	Control	Guanidine	0.0188746986630432	0.099	0.01887	*	T-test	2
+auc_e	value	Control	Pyrimethamine	0.000122632880913188	0.0026	0.00012	***	T-test	2
+auc_e	value	Control	Cladribine	0.364680425256597	0.43	0.36468	ns	T-test	1
+auc_e	value	Control	Lacosamide	0.299963866890871	0.42	0.29996	ns	T-test	1
+auc_e	value	Control	Leflunomide	0.00199738943894299	0.016	0.00200	**	T-test	1
+auc_e	value	Control	Metformin	0.171726494748178	0.3	0.17173	ns	T-test	1
+auc_e	value	Control	Rivastigmine	0.118569306574877	0.25	0.11857	ns	T-test	1
+auc_e	value	Control	Rosuvastatin	0.189479167885213	0.31	0.18948	ns	T-test	1
+auc_e	value	Control	Trifluridine	0.352467750354701	0.43	0.35247	ns	T-test	1
+t_mid	value	Control	Acarbose	0.0450373864260717	0.18	0.0450	*	T-test	3
+t_mid	value	Control	Dutasteride	0.0259438727977993	0.16	0.0259	*	T-test	3
+t_mid	value	Control	Levamlodipine	0.481332618667895	0.62	0.4813	ns	T-test	3
+t_mid	value	Control	Linagliptin	0.292060181962911	0.47	0.2921	ns	T-test	3
+t_mid	value	Control	Pitavastatin	0.205237354410137	0.45	0.2052	ns	T-test	3
+t_mid	value	Control	Ranitidine	0.831198129196613	0.83	0.8312	ns	T-test	3
+t_mid	value	Control	Saxagliptin	0.215699807175205	0.45	0.2157	ns	T-test	3
+t_mid	value	Control	Atorvastatin	0.125783280894916	0.36	0.1258	ns	T-test	2
+t_mid	value	Control	Bendroflumethiazide	0.31416952862558	0.47	0.3142	ns	T-test	2
+t_mid	value	Control	Didanosine	0.503521847459092	0.62	0.5035	ns	T-test	2
+t_mid	value	Control	Empagliflozin	0.448723330871652	0.62	0.4487	ns	T-test	2
+t_mid	value	Control	Estradiol	0.618929680980964	0.68	0.6189	ns	T-test	2
+t_mid	value	Control	Guanidine	0.616026471333813	0.68	0.6160	ns	T-test	2
+t_mid	value	Control	Pyrimethamine	0.299212042621301	0.47	0.2992	ns	T-test	2
+t_mid	value	Control	Cladribine	0.296807769721897	0.47	0.2968	ns	T-test	1
+t_mid	value	Control	Lacosamide	0.135889897049712	0.36	0.1359	ns	T-test	1
+t_mid	value	Control	Leflunomide	0.00179112215366522	0.038	0.0018	**	T-test	1
+t_mid	value	Control	Metformin	0.0236932824161453	0.16	0.0237	*	T-test	1
+t_mid	value	Control	Rivastigmine	0.0296575731287635	0.16	0.0297	*	T-test	1
+t_mid	value	Control	Rosuvastatin	0.783581906748394	0.82	0.7836	ns	T-test	1
+t_mid	value	Control	Trifluridine	0.0523383121995312	0.18	0.0523	ns	T-test	1

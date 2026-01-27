@@ -1,0 +1,15 @@
+sample-id	Group	Colour
+Bctl1	B_ctl	#D4D4D4
+Bctl2	B_ctl	#D4D4D4
+Bctl3	B_ctl	#D4D4D4
+Bctl4	B_ctl	#D4D4D4
+Bctl5	B_ctl	#D4D4D4
+Mctl1	M_ctl	#1874CD
+Mctl2	M_ctl	#1874CD
+Mctl3	M_ctl	#1874CD
+MD1	M_D	#99DD00
+MD2	M_D	#99DD00
+MD3	M_D	#99DD00
+ME1	M_E	#F4A460
+ME2	M_E	#F4A460
+ME3	M_E	#F4A460

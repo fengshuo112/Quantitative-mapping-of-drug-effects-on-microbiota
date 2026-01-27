@@ -1,0 +1,251 @@
+Target	Strain	Drug	target	prediction	affect	flag
+PPIA	Bacteroides thetaiotaomicron	Cyclosporine	with	decrease	inhibit	inhibit_with_decrease
+PPIA	Phocaeicola dorei	Cyclosporine	with	decrease	inhibit	inhibit_with_decrease
+PPIA	Bifidobacterium pseudocatenulatum	Cyclosporine	with	decrease	inhibit	inhibit_with_decrease
+PPIA	Prevotella intermedia	Cyclosporine	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+PPIA	[Ruminococcus] gnavus	Cyclosporine	with	decrease	no-inhibit	no-inhibit_with_decrease
+PPIA	Bacteroides xylanisolvens	Cyclosporine	with	decrease	inhibit	inhibit_with_decrease
+PPIA	Akkermansia muciniphila	Cyclosporine	with	decrease	inhibit	inhibit_with_decrease
+PPIA	Fusobacterium nucleatum	Cyclosporine	with	decrease	inhibit	inhibit_with_decrease
+PPIA	Phocaeicola vulgatus	Cyclosporine	with	decrease	inhibit	inhibit_with_decrease
+PPIA	Clostridium sporogenes	Cyclosporine	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+PPIA	Bifidobacterium animalis	Cyclosporine	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+PPIA	Bifidobacterium adolescentis	Cyclosporine	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+PPIA	Parabacteroides johnsonii	Cyclosporine	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+PPIA	Escherichia fergusonii	Cyclosporine	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+PPIA	Bifidobacterium catenulatum	Cyclosporine	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+PPIA	Bifidobacterium angulatum	Cyclosporine	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+PPIA	Faecalibacterium prausnitzii	Cyclosporine	with	decrease	no-inhibit	no-inhibit_with_decrease
+PPIA	Bifidobacterium longum	Cyclosporine	with	decrease	no-inhibit	no-inhibit_with_decrease
+PPIA	Clostridium thermopalmarium	Cyclosporine	with	decrease	no-inhibit	no-inhibit_with_decrease
+PPIA	Eubacterium barkeri	Cyclosporine	with	decrease	inhibit	inhibit_with_decrease
+PPIA	Bacteroides ovatus	Cyclosporine	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+PPIA	Bifidobacterium breve	Cyclosporine	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+PPIA	Alistipes onderdonkii	Cyclosporine	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+PPIA	Parabacteroides goldsteinii	Cyclosporine	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+PPIA	Bacteroides fragilis	Cyclosporine	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+ACADSB	Alistipes onderdonkii	Valproic acid	with	decrease	inhibit	inhibit_with_decrease
+ACADSB	Bacteroides thetaiotaomicron	Valproic acid	with	decrease	inhibit	inhibit_with_decrease
+ACADSB	Bacteroides xylanisolvens	Valproic acid	with	no-decrease	inhibit	inhibit_with_no-decrease
+ACADSB	Escherichia fergusonii	Valproic acid	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+ACADSB	Phocaeicola vulgatus	Valproic acid	with	decrease	no-inhibit	no-inhibit_with_decrease
+ACADSB	Prevotella intermedia	Valproic acid	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+ACADSB	Akkermansia muciniphila	Valproic acid	without	no-decrease	inhibit	inhibit_without_no-decrease
+ACADSB	Bacteroides fragilis	Valproic acid	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+ACADSB	Bacteroides ovatus	Valproic acid	with	decrease	no-inhibit	no-inhibit_with_decrease
+ACADSB	Bifidobacterium adolescentis	Valproic acid	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+ACADSB	Bifidobacterium angulatum	Valproic acid	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+ACADSB	Bifidobacterium animalis	Valproic acid	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+ACADSB	Bifidobacterium breve	Valproic acid	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+ACADSB	Bifidobacterium catenulatum	Valproic acid	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+ACADSB	Bifidobacterium longum	Valproic acid	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+ACADSB	Bifidobacterium pseudocatenulatum	Valproic acid	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+ACADSB	Clostridium sporogenes	Valproic acid	with	decrease	no-inhibit	no-inhibit_with_decrease
+ACADSB	Clostridium thermopalmarium	Valproic acid	with	decrease	no-inhibit	no-inhibit_with_decrease
+ACADSB	Eubacterium barkeri	Valproic acid	with	decrease	no-inhibit	no-inhibit_with_decrease
+ACADSB	Faecalibacterium prausnitzii	Valproic acid	with	decrease	no-inhibit	no-inhibit_with_decrease
+ACADSB	Fusobacterium nucleatum	Valproic acid	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+ACADSB	Parabacteroides goldsteinii	Valproic acid	with	decrease	no-inhibit	no-inhibit_with_decrease
+ACADSB	Parabacteroides johnsonii	Valproic acid	with	decrease	no-inhibit	no-inhibit_with_decrease
+ACADSB	Phocaeicola dorei	Valproic acid	with	decrease	no-inhibit	no-inhibit_with_decrease
+ACADSB	[Ruminococcus] gnavus	Valproic acid	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+DHFR,folA	[Ruminococcus] gnavus	Methotrexate	with	decrease	inhibit	inhibit_with_decrease
+DHFR,folA	Bifidobacterium angulatum	Methotrexate	with	decrease	inhibit	inhibit_with_decrease
+DHFR,folA	Clostridium thermopalmarium	Methotrexate	with	decrease	inhibit	inhibit_with_decrease
+DHFR,folA	Phocaeicola dorei	Methotrexate	with	decrease	inhibit	inhibit_with_decrease
+DHFR,folA	Akkermansia muciniphila	Methotrexate	with	decrease	inhibit	inhibit_with_decrease
+DHFR,folA	Alistipes onderdonkii	Methotrexate	with	decrease	inhibit	inhibit_with_decrease
+DHFR,folA	Bifidobacterium adolescentis	Methotrexate	with	decrease	inhibit	inhibit_with_decrease
+DHFR,folA	Bacteroides xylanisolvens	Methotrexate	with	decrease	inhibit	inhibit_with_decrease
+DHFR,folA	Bacteroides ovatus	Methotrexate	with	decrease	inhibit	inhibit_with_decrease
+DHFR,folA	Prevotella intermedia	Methotrexate	with	decrease	inhibit	inhibit_with_decrease
+DHFR,folA	Phocaeicola vulgatus	Methotrexate	with	decrease	inhibit	inhibit_with_decrease
+DHFR,folA	Bacteroides thetaiotaomicron	Methotrexate	with	decrease	inhibit	inhibit_with_decrease
+DHFR,folA	Bacteroides fragilis	Methotrexate	with	decrease	inhibit	inhibit_with_decrease
+DHFR,folA	Bifidobacterium pseudocatenulatum	Methotrexate	with	decrease	inhibit	inhibit_with_decrease
+DHFR,folA	Bifidobacterium breve	Methotrexate	with	decrease	inhibit	inhibit_with_decrease
+DHFR,folA	Bifidobacterium catenulatum	Methotrexate	with	decrease	inhibit	inhibit_with_decrease
+DHFR,folA	Parabacteroides goldsteinii	Methotrexate	with	decrease	no-inhibit	no-inhibit_with_decrease
+DHFR,folA	Bifidobacterium animalis	Methotrexate	with	decrease	inhibit	inhibit_with_decrease
+DHFR,folA	Bifidobacterium longum	Methotrexate	with	decrease	inhibit	inhibit_with_decrease
+DHFR,folA	Parabacteroides johnsonii	Methotrexate	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+DHFR,folA	Eubacterium barkeri	Methotrexate	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+DHFR,folA	Clostridium sporogenes	Methotrexate	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+DHFR,folA	Escherichia fergusonii	Methotrexate	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+DHFR,folA	Faecalibacterium prausnitzii	Methotrexate	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+DHFR,folA	Fusobacterium nucleatum	Methotrexate	without	no-decrease	inhibit	inhibit_without_no-decrease
+ACHE	Bifidobacterium pseudocatenulatum	Galantamine	with	decrease	no-inhibit	no-inhibit_with_decrease
+ACHE	Bifidobacterium angulatum	Galantamine	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+ACHE	Bifidobacterium catenulatum	Galantamine	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+ACHE	Bifidobacterium animalis	Galantamine	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+ACHE	Bifidobacterium adolescentis	Galantamine	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+ACHE	Alistipes onderdonkii	Galantamine	with	decrease	inhibit	inhibit_with_decrease
+ACHE	Akkermansia muciniphila	Galantamine	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+ACHE	Bacteroides fragilis	Galantamine	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+ACHE	Bacteroides ovatus	Galantamine	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+ACHE	Bacteroides thetaiotaomicron	Galantamine	without	no-decrease	inhibit	inhibit_without_no-decrease
+ACHE	Bacteroides xylanisolvens	Galantamine	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+ACHE	Bifidobacterium breve	Galantamine	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+ACHE	Bifidobacterium longum	Galantamine	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+ACHE	Clostridium sporogenes	Galantamine	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+ACHE	Clostridium thermopalmarium	Galantamine	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+ACHE	Escherichia fergusonii	Galantamine	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+ACHE	Eubacterium barkeri	Galantamine	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+ACHE	Faecalibacterium prausnitzii	Galantamine	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+ACHE	Fusobacterium nucleatum	Galantamine	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+ACHE	Parabacteroides goldsteinii	Galantamine	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+ACHE	Parabacteroides johnsonii	Galantamine	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+ACHE	Phocaeicola dorei	Galantamine	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+ACHE	Phocaeicola vulgatus	Galantamine	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+ACHE	Prevotella intermedia	Galantamine	without	no-decrease	inhibit	inhibit_without_no-decrease
+ACHE	[Ruminococcus] gnavus	Galantamine	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+FKBP1	Bacteroides thetaiotaomicron	Sirolimus	with	decrease	inhibit	inhibit_with_decrease
+FKBP1	Bifidobacterium animalis	Sirolimus	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+FKBP1	Bifidobacterium longum	Sirolimus	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+FKBP1	Prevotella intermedia	Sirolimus	with	decrease	inhibit	inhibit_with_decrease
+FKBP1	Bacteroides ovatus	Sirolimus	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+FKBP1	Parabacteroides goldsteinii	Sirolimus	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+FKBP1	Bifidobacterium breve	Sirolimus	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+FKBP1	Bifidobacterium adolescentis	Sirolimus	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+FKBP1	Phocaeicola dorei	Sirolimus	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+FKBP1	Phocaeicola vulgatus	Sirolimus	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+FKBP1	Bacteroides xylanisolvens	Sirolimus	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+FKBP1	Bifidobacterium catenulatum	Sirolimus	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+FKBP1	Parabacteroides johnsonii	Sirolimus	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+FKBP1	Escherichia fergusonii	Sirolimus	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+FKBP1	Bifidobacterium pseudocatenulatum	Sirolimus	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+FKBP1	Bacteroides fragilis	Sirolimus	with	decrease	inhibit	inhibit_with_decrease
+FKBP1	Bifidobacterium angulatum	Sirolimus	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+FKBP1	Alistipes onderdonkii	Sirolimus	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+FKBP1	Akkermansia muciniphila	Sirolimus	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+FKBP1	Faecalibacterium prausnitzii	Sirolimus	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+FKBP1	Clostridium sporogenes	Sirolimus	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+FKBP1	Clostridium thermopalmarium	Sirolimus	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+FKBP1	Eubacterium barkeri	Sirolimus	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+FKBP1	Fusobacterium nucleatum	Sirolimus	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+FKBP1	[Ruminococcus] gnavus	Sirolimus	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+hprT,hpt,HPRT1	Fusobacterium nucleatum	Mercaptopurine	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+hprT,hpt,HPRT1	Clostridium sporogenes	Mercaptopurine	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+hprT,hpt,HPRT1	Parabacteroides johnsonii	Mercaptopurine	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+hprT,hpt,HPRT1	Eubacterium barkeri	Mercaptopurine	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+hprT,hpt,HPRT1	Bifidobacterium angulatum	Mercaptopurine	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+hprT,hpt,HPRT1	Clostridium thermopalmarium	Mercaptopurine	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+hprT,hpt,HPRT1	Bifidobacterium catenulatum	Mercaptopurine	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+hprT,hpt,HPRT1	[Ruminococcus] gnavus	Mercaptopurine	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+hprT,hpt,HPRT1	Bifidobacterium adolescentis	Mercaptopurine	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+hprT,hpt,HPRT1	Bifidobacterium animalis	Mercaptopurine	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+hprT,hpt,HPRT1	Bifidobacterium breve	Mercaptopurine	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+hprT,hpt,HPRT1	Bifidobacterium longum	Mercaptopurine	with	decrease	inhibit	inhibit_with_decrease
+hprT,hpt,HPRT1	Faecalibacterium prausnitzii	Mercaptopurine	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+hprT,hpt,HPRT1	Bifidobacterium pseudocatenulatum	Mercaptopurine	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+hprT,hpt,HPRT1	Parabacteroides goldsteinii	Mercaptopurine	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+hprT,hpt,HPRT1	Bacteroides xylanisolvens	Mercaptopurine	with	decrease	inhibit	inhibit_with_decrease
+hprT,hpt,HPRT1	Bacteroides fragilis	Mercaptopurine	with	no-decrease	inhibit	inhibit_with_no-decrease
+hprT,hpt,HPRT1	Bacteroides thetaiotaomicron	Mercaptopurine	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+hprT,hpt,HPRT1	Phocaeicola dorei	Mercaptopurine	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+hprT,hpt,HPRT1	Phocaeicola vulgatus	Mercaptopurine	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+hprT,hpt,HPRT1	Prevotella intermedia	Mercaptopurine	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+hprT,hpt,HPRT1	Escherichia fergusonii	Mercaptopurine	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+hprT,hpt,HPRT1	Bacteroides ovatus	Mercaptopurine	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+hprT,hpt,HPRT1	Alistipes onderdonkii	Mercaptopurine	with	no-decrease	inhibit	inhibit_with_no-decrease
+hprT,hpt,HPRT1	Akkermansia muciniphila	Mercaptopurine	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+DPP4,CD26	Bacteroides ovatus	Vildagliptin	with	decrease	no-inhibit	no-inhibit_with_decrease
+DPP4,CD26	Bacteroides fragilis	Vildagliptin	with	decrease	inhibit	inhibit_with_decrease
+DPP4,CD26	Alistipes onderdonkii	Vildagliptin	with	decrease	inhibit	inhibit_with_decrease
+DPP4,CD26	Bacteroides thetaiotaomicron	Vildagliptin	with	decrease	inhibit	inhibit_with_decrease
+DPP4,CD26	Phocaeicola vulgatus	Vildagliptin	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+DPP4,CD26	Parabacteroides johnsonii	Vildagliptin	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+DPP4,CD26	Parabacteroides goldsteinii	Vildagliptin	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+DPP4,CD26	Phocaeicola dorei	Vildagliptin	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+DPP4,CD26	Bacteroides xylanisolvens	Vildagliptin	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+DPP4,CD26	Akkermansia muciniphila	Vildagliptin	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+DPP4,CD26	Bifidobacterium adolescentis	Vildagliptin	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+DPP4,CD26	Bifidobacterium angulatum	Vildagliptin	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+DPP4,CD26	Bifidobacterium animalis	Vildagliptin	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+DPP4,CD26	Bifidobacterium breve	Vildagliptin	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+DPP4,CD26	Bifidobacterium catenulatum	Vildagliptin	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+DPP4,CD26	Bifidobacterium longum	Vildagliptin	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+DPP4,CD26	Bifidobacterium pseudocatenulatum	Vildagliptin	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+DPP4,CD26	Clostridium sporogenes	Vildagliptin	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+DPP4,CD26	Clostridium thermopalmarium	Vildagliptin	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+DPP4,CD26	Escherichia fergusonii	Vildagliptin	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+DPP4,CD26	Eubacterium barkeri	Vildagliptin	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+DPP4,CD26	Faecalibacterium prausnitzii	Vildagliptin	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+DPP4,CD26	Fusobacterium nucleatum	Vildagliptin	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+DPP4,CD26	Prevotella intermedia	Vildagliptin	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+DPP4,CD26	[Ruminococcus] gnavus	Vildagliptin	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+DHODH,pyrD	Bacteroides fragilis	Teriflunomide	with	decrease	inhibit	inhibit_with_decrease
+DHODH,pyrD	Alistipes onderdonkii	Teriflunomide	with	decrease	inhibit	inhibit_with_decrease
+DHODH,pyrD	Bifidobacterium longum	Teriflunomide	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+DHODH,pyrD	Escherichia fergusonii	Teriflunomide	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+DHODH,pyrD	Bifidobacterium pseudocatenulatum	Teriflunomide	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+DHODH,pyrD	Bifidobacterium catenulatum	Teriflunomide	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+DHODH,pyrD	Akkermansia muciniphila	Teriflunomide	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+DHODH,pyrD	Bifidobacterium breve	Teriflunomide	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+DHODH,pyrD	Bifidobacterium adolescentis	Teriflunomide	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+DHODH,pyrD	Bifidobacterium angulatum	Teriflunomide	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+DHODH,pyrD	Bacteroides thetaiotaomicron	Teriflunomide	with	no-decrease	inhibit	inhibit_with_no-decrease
+DHODH,pyrD	Bacteroides ovatus	Teriflunomide	with	decrease	inhibit	inhibit_with_decrease
+DHODH,pyrD	Parabacteroides goldsteinii	Teriflunomide	with	no-decrease	inhibit	inhibit_with_no-decrease
+DHODH,pyrD	Bifidobacterium animalis	Teriflunomide	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+DHODH,pyrD	Parabacteroides johnsonii	Teriflunomide	with	no-decrease	inhibit	inhibit_with_no-decrease
+DHODH,pyrD	Bacteroides xylanisolvens	Teriflunomide	with	decrease	inhibit	inhibit_with_decrease
+DHODH,pyrD	Clostridium sporogenes	Teriflunomide	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+DHODH,pyrD	Clostridium thermopalmarium	Teriflunomide	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+DHODH,pyrD	Eubacterium barkeri	Teriflunomide	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+DHODH,pyrD	Faecalibacterium prausnitzii	Teriflunomide	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+DHODH,pyrD	Fusobacterium nucleatum	Teriflunomide	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+DHODH,pyrD	Phocaeicola dorei	Teriflunomide	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+DHODH,pyrD	Phocaeicola vulgatus	Teriflunomide	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+DHODH,pyrD	Prevotella intermedia	Teriflunomide	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+DHODH,pyrD	[Ruminococcus] gnavus	Teriflunomide	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+SLC5A2,SGLT2	Phocaeicola dorei	Canagliflozin	with	decrease	inhibit	inhibit_with_decrease
+SLC5A2,SGLT2	Phocaeicola vulgatus	Canagliflozin	with	decrease	inhibit	inhibit_with_decrease
+SLC5A2,SGLT2	Parabacteroides johnsonii	Canagliflozin	with	decrease	inhibit	inhibit_with_decrease
+SLC5A2,SGLT2	Bacteroides xylanisolvens	Canagliflozin	with	decrease	inhibit	inhibit_with_decrease
+SLC5A2,SGLT2	Clostridium thermopalmarium	Canagliflozin	with	decrease	inhibit	inhibit_with_decrease
+SLC5A2,SGLT2	Akkermansia muciniphila	Canagliflozin	with	decrease	inhibit	inhibit_with_decrease
+SLC5A2,SGLT2	[Ruminococcus] gnavus	Canagliflozin	with	decrease	inhibit	inhibit_with_decrease
+SLC5A2,SGLT2	Bacteroides thetaiotaomicron	Canagliflozin	with	decrease	inhibit	inhibit_with_decrease
+SLC5A2,SGLT2	Alistipes onderdonkii	Canagliflozin	with	decrease	inhibit	inhibit_with_decrease
+SLC5A2,SGLT2	Parabacteroides goldsteinii	Canagliflozin	with	decrease	inhibit	inhibit_with_decrease
+SLC5A2,SGLT2	Eubacterium barkeri	Canagliflozin	with	decrease	inhibit	inhibit_with_decrease
+SLC5A2,SGLT2	Bifidobacterium breve	Canagliflozin	with	decrease	inhibit	inhibit_with_decrease
+SLC5A2,SGLT2	Escherichia fergusonii	Canagliflozin	with	decrease	no-inhibit	no-inhibit_with_decrease
+SLC5A2,SGLT2	Bacteroides fragilis	Canagliflozin	with	decrease	inhibit	inhibit_with_decrease
+SLC5A2,SGLT2	Bacteroides ovatus	Canagliflozin	with	decrease	inhibit	inhibit_with_decrease
+SLC5A2,SGLT2	Bifidobacterium animalis	Canagliflozin	with	decrease	inhibit	inhibit_with_decrease
+SLC5A2,SGLT2	Clostridium sporogenes	Canagliflozin	with	decrease	inhibit	inhibit_with_decrease
+SLC5A2,SGLT2	Bifidobacterium catenulatum	Canagliflozin	with	no-decrease	inhibit	inhibit_with_no-decrease
+SLC5A2,SGLT2	Bifidobacterium longum	Canagliflozin	with	decrease	no-inhibit	no-inhibit_with_decrease
+SLC5A2,SGLT2	Bifidobacterium angulatum	Canagliflozin	with	decrease	inhibit	inhibit_with_decrease
+SLC5A2,SGLT2	Bifidobacterium adolescentis	Canagliflozin	with	decrease	inhibit	inhibit_with_decrease
+SLC5A2,SGLT2	Bifidobacterium pseudocatenulatum	Canagliflozin	with	decrease	inhibit	inhibit_with_decrease
+SLC5A2,SGLT2	Prevotella intermedia	Canagliflozin	with	no-decrease	inhibit	inhibit_with_no-decrease
+SLC5A2,SGLT2	Faecalibacterium prausnitzii	Canagliflozin	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+SLC5A2,SGLT2	Fusobacterium nucleatum	Canagliflozin	without	no-decrease	inhibit	inhibit_without_no-decrease
+IDH1,IDH2,icd	Bacteroides xylanisolvens	Enasidenib	with	decrease	inhibit	inhibit_with_decrease
+IDH1,IDH2,icd	Bifidobacterium longum	Enasidenib	with	decrease	no-inhibit	no-inhibit_with_decrease
+IDH1,IDH2,icd	Bifidobacterium adolescentis	Enasidenib	with	decrease	no-inhibit	no-inhibit_with_decrease
+IDH1,IDH2,icd	Phocaeicola dorei	Enasidenib	with	decrease	inhibit	inhibit_with_decrease
+IDH1,IDH2,icd	Bifidobacterium catenulatum	Enasidenib	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+IDH1,IDH2,icd	Bifidobacterium pseudocatenulatum	Enasidenib	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+IDH1,IDH2,icd	Bifidobacterium angulatum	Enasidenib	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+IDH1,IDH2,icd	Parabacteroides goldsteinii	Enasidenib	with	no-decrease	inhibit	inhibit_with_no-decrease
+IDH1,IDH2,icd	Escherichia fergusonii	Enasidenib	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+IDH1,IDH2,icd	Bifidobacterium breve	Enasidenib	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+IDH1,IDH2,icd	Bifidobacterium animalis	Enasidenib	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+IDH1,IDH2,icd	[Ruminococcus] gnavus	Enasidenib	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+IDH1,IDH2,icd	Faecalibacterium prausnitzii	Enasidenib	with	no-decrease	no-inhibit	no-inhibit_with_no-decrease
+IDH1,IDH2,icd	Parabacteroides johnsonii	Enasidenib	with	no-decrease	inhibit	inhibit_with_no-decrease
+IDH1,IDH2,icd	Bacteroides thetaiotaomicron	Enasidenib	with	no-decrease	inhibit	inhibit_with_no-decrease
+IDH1,IDH2,icd	Alistipes onderdonkii	Enasidenib	with	no-decrease	inhibit	inhibit_with_no-decrease
+IDH1,IDH2,icd	Akkermansia muciniphila	Enasidenib	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+IDH1,IDH2,icd	Bacteroides fragilis	Enasidenib	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+IDH1,IDH2,icd	Bacteroides ovatus	Enasidenib	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+IDH1,IDH2,icd	Clostridium sporogenes	Enasidenib	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+IDH1,IDH2,icd	Clostridium thermopalmarium	Enasidenib	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+IDH1,IDH2,icd	Eubacterium barkeri	Enasidenib	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+IDH1,IDH2,icd	Fusobacterium nucleatum	Enasidenib	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+IDH1,IDH2,icd	Phocaeicola vulgatus	Enasidenib	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease
+IDH1,IDH2,icd	Prevotella intermedia	Enasidenib	without	no-decrease	no-inhibit	no-inhibit_without_no-decrease

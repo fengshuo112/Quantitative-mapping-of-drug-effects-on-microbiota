@@ -1,0 +1,3 @@
+Count:8189.0
+Count_rate:0.137
+Filter_rate:1.0

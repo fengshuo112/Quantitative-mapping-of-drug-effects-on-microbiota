@@ -1,0 +1,11 @@
+Drug	Target
+Cyclosporine	PPIA
+Valproic acid	ACADSB
+Methotrexate	DHFR
+Galantamine	ACHE
+Sirolimus	FKBP1
+Mercaptopurine	HPRT1
+Vildagliptin	DPP4
+Teriflunomide	DHODH
+Canagliflozin	SLC5A2
+Enasidenib	IDH

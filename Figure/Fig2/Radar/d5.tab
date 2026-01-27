@@ -1,0 +1,86 @@
+drugname	N	DrugID	l1	newdrug	code0	col
+Canagliflozin	24	DB08907	Alimentary tract and metabolism	Canagliflozin	A	yes
+Ranitidine	11	DB00863	Alimentary tract and metabolism	Ranitidine	A	no
+Sitagliptin	6	DB01261	Alimentary tract and metabolism	Sitagliptin	A	no
+Ertugliflozin	5	DB11827	Alimentary tract and metabolism	Ertugliflozin	A	no
+Vildagliptin	5	DB04876	Alimentary tract and metabolism	Vildagliptin	A	yes
+Chenodeoxycholic acid	4	DB06777	Alimentary tract and metabolism	Chenodeoxycholic acid	A	no
+Levocarnitine	3	DB00583	Alimentary tract and metabolism	Levocarnitine	A	no
+Metformin	3	DB00331	Alimentary tract and metabolism	Metformin	A	no
+Ursodeoxycholic acid	3	DB01586	Alimentary tract and metabolism	Ursodeoxycholic acid	A	no
+Dapagliflozin	2	DB06292	Alimentary tract and metabolism	Dapagliflozin	A	no
+Empagliflozin	1	DB09038	Alimentary tract and metabolism	Empagliflozin	A	no
+Sodium sulfate	1	DB09472	Alimentary tract and metabolism	Sodium sulfate	A	no
+Ferric maltol	41	DB15598	Blood and blood forming organs	Ferric maltol	B	no
+Bendroflumethiazide	11	DB00436	Cardiovascular system	Bendroflumethiazide-1	C	no
+Pentoxifylline	8	DB00806	Cardiovascular system	Pentoxifylline-1	C	no
+Indomethacin	7	DB00328	Cardiovascular system	Indomethacin-3	C	no
+Xanthinol	4	DB09092	Cardiovascular system	Xanthinol	C	no
+Hydroflumethiazide	3	DB00774	Cardiovascular system	Hydroflumethiazide-1	C	no
+Atorvastatin	1	DB01076	Cardiovascular system	Atorvastatin	C	no
+Cerivastatin	1	DB00439	Cardiovascular system	Cerivastatin	C	no
+Tyrothricin	27	DB13503	Dermatologicals	Tyrothricin-3	D	no
+Salicylic acid	4	DB00936	Dermatologicals	Salicylic acid-1	D	no
+Tacrolimus	1	DB00864	Dermatologicals	Tacrolimus-1	D	no
+Acetazolamide	17	DB00819	Genito urinary system and sex hormones	Acetazolamide-1	G	no
+Bendroflumethiazide	11	DB00436	Genito urinary system and sex hormones	Bendroflumethiazide-2	G	no
+Hydroflumethiazide	3	DB00774	Genito urinary system and sex hormones	Hydroflumethiazide-2	G	no
+Didanosine	25	DB00900	Antiinfectives for systemic use	Didanosine	J	no
+Mycophenolic acid	280	DB01024	Antineoplastic and immunomodulating agents	Mycophenolic acid	L	no
+Mercaptopurine	150	DB01033	Antineoplastic and immunomodulating agents	Mercaptopurine-1	L	yes
+Methotrexate	145	DB00563	Antineoplastic and immunomodulating agents	Methotrexate	L	yes
+Cyclosporine	102	DB00091	Antineoplastic and immunomodulating agents	Cyclosporine-1	L	yes
+Cedazuridine	87	DB15694	Antineoplastic and immunomodulating agents	Cedazuridine	L	no
+Cladribine	51	DB00242	Antineoplastic and immunomodulating agents	Cladribine	L	no
+Dasatinib	48	DB01254	Antineoplastic and immunomodulating agents	Dasatinib	L	no
+Teriflunomide	44	DB08880	Antineoplastic and immunomodulating agents	Teriflunomide	L	yes
+Leflunomide	43	DB01097	Antineoplastic and immunomodulating agents	Leflunomide	L	no
+Sirolimus	32	DB00877	Antineoplastic and immunomodulating agents	Sirolimus-2	L	yes
+Enasidenib	17	DB13874	Antineoplastic and immunomodulating agents	Enasidenib	L	yes
+Fluorouracil	13	DB00544	Antineoplastic and immunomodulating agents	Fluorouracil	L	no
+Capecitabine	5	DB01101	Antineoplastic and immunomodulating agents	Capecitabine	L	no
+Tegafur	4	DB09256	Antineoplastic and immunomodulating agents	Tegafur	L	no
+Fludarabine	3	DB01073	Antineoplastic and immunomodulating agents	Fludarabine	L	no
+Trifluridine	3	DB00432	Antineoplastic and immunomodulating agents	Trifluridine-1	L	no
+Tacrolimus	1	DB00864	Antineoplastic and immunomodulating agents	Tacrolimus-2	L	no
+Tiludronic acid	103	DB01133	Musculo-skeletal system	Tiludronic acid	M	no
+Indomethacin	7	DB00328	Musculo-skeletal system	Indomethacin-2	M	no
+Auranofin	2	DB00995	Musculo-skeletal system	Auranofin	M	no
+Meprobamate	149	DB00371	Nervous system	Meprobamate	N	no
+Cannabidiol	128	DB09061	Nervous system	Cannabidiol	N	no
+Flurazepam	110	DB00690	Nervous system	Flurazepam	N	no
+Lacosamide	58	DB06218	Nervous system	Lacosamide	N	no
+Melatonin	37	DB01065	Nervous system	Melatonin	N	no
+Stiripentol	34	DB09118	Nervous system	Stiripentol	N	no
+Rivastigmine	20	DB00989	Nervous system	Rivastigmine	N	no
+Galantamine	11	DB00674	Nervous system	Galantamine	N	yes
+Midazolam	10	DB00683	Nervous system	Midazolam	N	no
+Pyridostigmine	10	DB00545	Nervous system	Pyridostigmine	N	no
+Valproic acid	10	DB00313	Nervous system	Valproic acid	N	yes
+Entacapone	8	DB00494	Nervous system	Entacapone	N	no
+Estazolam	4	DB01215	Nervous system	Estazolam	N	no
+Salicylic acid	4	DB00936	Nervous system	Salicylic acid-2	N	no
+Temazepam	3	DB00231	Nervous system	Temazepam	N	no
+Alprazolam	2	DB00404	Nervous system	Alprazolam	N	no
+Chlordiazepoxide	2	DB00475	Nervous system	Chlordiazepoxide	N	no
+Diazepam	2	DB00829	Nervous system	Diazepam	N	no
+Eszopiclone	2	DB00402	Nervous system	Eszopiclone	N	no
+Lorazepam	2	DB00186	Nervous system	Lorazepam	N	no
+Oxazepam	2	DB00842	Nervous system	Oxazepam	N	no
+Tolcapone	1	DB00323	Nervous system	Tolcapone	N	no
+Triazolam	1	DB00897	Nervous system	Triazolam	N	no
+Mercaptopurine	150	DB01033	Respiratory system	Mercaptopurine-2	R	yes
+Tyrothricin	27	DB13503	Respiratory system	Tyrothricin-2	R	no
+Pentoxifylline	8	DB00806	Respiratory system	Pentoxifylline-2	R	no
+Cyclosporine	102	DB00091	Sensory organs	Cyclosporine-2	S	yes
+Sirolimus	32	DB00877	Sensory organs	Sirolimus-1	S	yes
+Tyrothricin	27	DB13503	Sensory organs	Tyrothricin-1	S	no
+Acetazolamide	17	DB00819	Sensory organs	Acetazolamide-2	S	no
+Indomethacin	7	DB00328	Sensory organs	Indomethacin-1	S	no
+Salicylic acid	4	DB00936	Sensory organs	Salicylic acid-3	S	no
+Trifluridine	3	DB00432	Sensory organs	Trifluridine-2	S	no
+Omega-3-carboxylic acids	324	DB09568	Unclassified	Omega-3-carboxylic acids	NA	no
+Mycophenolate mofetil	298	DB00688	Unclassified	Mycophenolate mofetil	NA	no
+Guanidine	11	DB00536	Unclassified	Guanidine	NA	no
+Tipiracil	4	DB09343	Unclassified	Tipiracil	NA	no
+Gimeracil	1	DB09257	Unclassified	Gimeracil	NA	no

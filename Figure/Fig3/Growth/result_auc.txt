@@ -1,0 +1,251 @@
+drug	strain	auc_ic50	max_ic50	auc_ic25	max_ic25	auc_mic	Drug	Conc
+6MP	Akkermansia muciniphila	Inf	Inf	40	Inf	Inf	Mercaptopurine	17
+6MP	Alistipes onderdonkii	Inf	Inf	0.5	0.5	Inf	Mercaptopurine	17
+6MP	Bacteroides fragilis	120	360	1	40	Inf	Mercaptopurine	17
+6MP	Bacteroides ovatus	Inf	Inf	360	Inf	Inf	Mercaptopurine	17
+6MP	Bacteroides thetaiotaomicron	Inf	Inf	Inf	Inf	Inf	Mercaptopurine	17
+6MP	Bacteroides xylanisolvens	Inf	Inf	1	40	Inf	Mercaptopurine	17
+6MP	Bifidobacterium adolescentis	120	360	120	120	360	Mercaptopurine	17
+6MP	Bifidobacterium angulatum	Inf	Inf	360	360	Inf	Mercaptopurine	17
+6MP	Bifidobacterium animalis	Inf	Inf	40	360	Inf	Mercaptopurine	17
+6MP	Bifidobacterium breve	Inf	Inf	360	Inf	Inf	Mercaptopurine	17
+6MP	Bifidobacterium catenulatum	120	Inf	120	Inf	Inf	Mercaptopurine	17
+6MP	Bifidobacterium longum	360	Inf	1	1	Inf	Mercaptopurine	17
+6MP	Bifidobacterium pseudocatenulatum	360	Inf	120	360	Inf	Mercaptopurine	17
+6MP	Clostridium sporogenes	Inf	Inf	Inf	Inf	Inf	Mercaptopurine	17
+6MP	Clostridium thermopalmarium	Inf	Inf	Inf	Inf	Inf	Mercaptopurine	17
+6MP	Escherichia fergusonii	Inf	Inf	40	360	Inf	Mercaptopurine	17
+6MP	Eubacterium barkeri	Inf	Inf	Inf	Inf	Inf	Mercaptopurine	17
+6MP	Faecalibacterium prausnitzii	Inf	Inf	Inf	Inf	Inf	Mercaptopurine	17
+6MP	Fusobacterium nucleatum	Inf	Inf	Inf	Inf	Inf	Mercaptopurine	17
+6MP	Parabacteroides goldsteinii	Inf	Inf	Inf	Inf	Inf	Mercaptopurine	17
+6MP	Parabacteroides johnsonii	Inf	Inf	Inf	Inf	Inf	Mercaptopurine	17
+6MP	Phocaeicola dorei	Inf	Inf	Inf	Inf	Inf	Mercaptopurine	17
+6MP	Phocaeicola vulgatus	Inf	Inf	120	Inf	Inf	Mercaptopurine	17
+6MP	Prevotella intermedia	360	360	360	360	360	Mercaptopurine	17
+6MP	[Ruminococcus] gnavus	Inf	Inf	Inf	Inf	Inf	Mercaptopurine	17
+Can	Akkermansia muciniphila	120	120	1	120	360	Canagliflozin	200
+Can	Alistipes onderdonkii	1	1	0.5	1	40	Canagliflozin	200
+Can	Bacteroides fragilis	40	40	12	40	40	Canagliflozin	200
+Can	Bacteroides ovatus	40	40	4	40	40	Canagliflozin	200
+Can	Bacteroides thetaiotaomicron	40	40	0.5	12	120	Canagliflozin	200
+Can	Bacteroides xylanisolvens	40	40	40	40	40	Canagliflozin	200
+Can	Bifidobacterium adolescentis	120	120	120	120	120	Canagliflozin	200
+Can	Bifidobacterium angulatum	120	120	40	120	120	Canagliflozin	200
+Can	Bifidobacterium animalis	360	120	120	40	Inf	Canagliflozin	200
+Can	Bifidobacterium breve	120	120	120	120	120	Canagliflozin	200
+Can	Bifidobacterium catenulatum	120	120	120	120	120	Canagliflozin	200
+Can	Bifidobacterium longum	360	360	360	360	360	Canagliflozin	200
+Can	Bifidobacterium pseudocatenulatum	120	120	40	120	120	Canagliflozin	200
+Can	Clostridium sporogenes	120	360	120	360	360	Canagliflozin	200
+Can	Clostridium thermopalmarium	120	120	40	120	120	Canagliflozin	200
+Can	Escherichia fergusonii	Inf	Inf	360	360	Inf	Canagliflozin	200
+Can	Eubacterium barkeri	120	120	120	120	360	Canagliflozin	200
+Can	Faecalibacterium prausnitzii	360	360	360	360	360	Canagliflozin	200
+Can	Fusobacterium nucleatum	40	120	40	40	120	Canagliflozin	200
+Can	Parabacteroides goldsteinii	360	360	120	120	360	Canagliflozin	200
+Can	Parabacteroides johnsonii	40	40	40	12	120	Canagliflozin	200
+Can	Phocaeicola dorei	40	40	40	40	40	Canagliflozin	200
+Can	Phocaeicola vulgatus	40	120	40	40	120	Canagliflozin	200
+Can	Prevotella intermedia	40	120	40	120	120	Canagliflozin	200
+Can	[Ruminococcus] gnavus	40	120	12	40	120	Canagliflozin	200
+Cyc	Akkermansia muciniphila	Inf	Inf	12	Inf	Inf	Cyclosporine	150
+Cyc	Alistipes onderdonkii	Inf	Inf	Inf	Inf	Inf	Cyclosporine	150
+Cyc	Bacteroides fragilis	Inf	Inf	Inf	Inf	Inf	Cyclosporine	150
+Cyc	Bacteroides ovatus	Inf	Inf	Inf	Inf	Inf	Cyclosporine	150
+Cyc	Bacteroides thetaiotaomicron	40	40	1	4	Inf	Cyclosporine	150
+Cyc	Bacteroides xylanisolvens	Inf	Inf	1	Inf	Inf	Cyclosporine	150
+Cyc	Bifidobacterium adolescentis	Inf	Inf	360	Inf	Inf	Cyclosporine	150
+Cyc	Bifidobacterium angulatum	Inf	Inf	360	360	Inf	Cyclosporine	150
+Cyc	Bifidobacterium animalis	Inf	Inf	360	Inf	Inf	Cyclosporine	150
+Cyc	Bifidobacterium breve	Inf	Inf	Inf	Inf	Inf	Cyclosporine	150
+Cyc	Bifidobacterium catenulatum	Inf	Inf	Inf	Inf	Inf	Cyclosporine	150
+Cyc	Bifidobacterium longum	Inf	Inf	Inf	Inf	Inf	Cyclosporine	150
+Cyc	Bifidobacterium pseudocatenulatum	Inf	Inf	12	360	Inf	Cyclosporine	150
+Cyc	Clostridium sporogenes	Inf	Inf	Inf	Inf	Inf	Cyclosporine	150
+Cyc	Clostridium thermopalmarium	Inf	Inf	Inf	Inf	Inf	Cyclosporine	150
+Cyc	Escherichia fergusonii	Inf	Inf	Inf	Inf	Inf	Cyclosporine	150
+Cyc	Eubacterium barkeri	Inf	Inf	0.5	0.5	Inf	Cyclosporine	150
+Cyc	Faecalibacterium prausnitzii	Inf	Inf	Inf	Inf	Inf	Cyclosporine	150
+Cyc	Fusobacterium nucleatum	Inf	Inf	1	Inf	Inf	Cyclosporine	150
+Cyc	Parabacteroides goldsteinii	Inf	Inf	Inf	Inf	Inf	Cyclosporine	150
+Cyc	Parabacteroides johnsonii	Inf	Inf	360	360	Inf	Cyclosporine	150
+Cyc	Phocaeicola dorei	40	Inf	12	12	Inf	Cyclosporine	150
+Cyc	Phocaeicola vulgatus	Inf	Inf	40	Inf	Inf	Cyclosporine	150
+Cyc	Prevotella intermedia	Inf	360	Inf	360	Inf	Cyclosporine	150
+Cyc	[Ruminococcus] gnavus	Inf	Inf	360	360	Inf	Cyclosporine	150
+En	Akkermansia muciniphila	Inf	Inf	Inf	Inf	Inf	Enasidenib	150
+En	Alistipes onderdonkii	4	4	0.5	0.5	Inf	Enasidenib	150
+En	Bacteroides fragilis	Inf	Inf	Inf	Inf	Inf	Enasidenib	150
+En	Bacteroides ovatus	Inf	Inf	Inf	Inf	Inf	Enasidenib	150
+En	Bacteroides thetaiotaomicron	4	360	1	4	Inf	Enasidenib	150
+En	Bacteroides xylanisolvens	Inf	Inf	1	12	Inf	Enasidenib	150
+En	Bifidobacterium adolescentis	Inf	Inf	Inf	Inf	Inf	Enasidenib	150
+En	Bifidobacterium angulatum	Inf	360	360	360	Inf	Enasidenib	150
+En	Bifidobacterium animalis	Inf	Inf	Inf	Inf	Inf	Enasidenib	150
+En	Bifidobacterium breve	Inf	Inf	Inf	Inf	Inf	Enasidenib	150
+En	Bifidobacterium catenulatum	Inf	Inf	Inf	Inf	Inf	Enasidenib	150
+En	Bifidobacterium longum	Inf	Inf	360	360	Inf	Enasidenib	150
+En	Bifidobacterium pseudocatenulatum	Inf	Inf	Inf	4	Inf	Enasidenib	150
+En	Clostridium sporogenes	Inf	Inf	Inf	Inf	Inf	Enasidenib	150
+En	Clostridium thermopalmarium	Inf	Inf	Inf	Inf	Inf	Enasidenib	150
+En	Escherichia fergusonii	Inf	Inf	360	360	Inf	Enasidenib	150
+En	Eubacterium barkeri	Inf	Inf	360	Inf	Inf	Enasidenib	150
+En	Faecalibacterium prausnitzii	Inf	Inf	Inf	Inf	Inf	Enasidenib	150
+En	Fusobacterium nucleatum	Inf	Inf	Inf	Inf	Inf	Enasidenib	150
+En	Parabacteroides goldsteinii	Inf	Inf	4	Inf	Inf	Enasidenib	150
+En	Parabacteroides johnsonii	40	40	12	12	Inf	Enasidenib	150
+En	Phocaeicola dorei	Inf	Inf	40	40	Inf	Enasidenib	150
+En	Phocaeicola vulgatus	Inf	Inf	Inf	Inf	Inf	Enasidenib	150
+En	Prevotella intermedia	360	360	360	360	Inf	Enasidenib	150
+En	[Ruminococcus] gnavus	Inf	Inf	360	360	Inf	Enasidenib	150
+Gal	Akkermansia muciniphila	Inf	Inf	Inf	Inf	Inf	Galantamine	4
+Gal	Alistipes onderdonkii	Inf	Inf	1	1	Inf	Galantamine	4
+Gal	Bacteroides fragilis	Inf	Inf	360	Inf	Inf	Galantamine	4
+Gal	Bacteroides ovatus	Inf	Inf	Inf	Inf	Inf	Galantamine	4
+Gal	Bacteroides thetaiotaomicron	4	Inf	1	4	Inf	Galantamine	4
+Gal	Bacteroides xylanisolvens	Inf	Inf	Inf	Inf	Inf	Galantamine	4
+Gal	Bifidobacterium adolescentis	Inf	Inf	360	Inf	Inf	Galantamine	4
+Gal	Bifidobacterium angulatum	Inf	Inf	Inf	Inf	Inf	Galantamine	4
+Gal	Bifidobacterium animalis	Inf	Inf	Inf	Inf	Inf	Galantamine	4
+Gal	Bifidobacterium breve	Inf	Inf	Inf	Inf	Inf	Galantamine	4
+Gal	Bifidobacterium catenulatum	Inf	Inf	Inf	Inf	Inf	Galantamine	4
+Gal	Bifidobacterium longum	Inf	Inf	Inf	Inf	Inf	Galantamine	4
+Gal	Bifidobacterium pseudocatenulatum	Inf	Inf	360	360	Inf	Galantamine	4
+Gal	Clostridium sporogenes	Inf	Inf	Inf	Inf	Inf	Galantamine	4
+Gal	Clostridium thermopalmarium	Inf	Inf	Inf	Inf	Inf	Galantamine	4
+Gal	Escherichia fergusonii	Inf	Inf	Inf	Inf	Inf	Galantamine	4
+Gal	Eubacterium barkeri	Inf	Inf	Inf	Inf	Inf	Galantamine	4
+Gal	Faecalibacterium prausnitzii	Inf	Inf	Inf	Inf	Inf	Galantamine	4
+Gal	Fusobacterium nucleatum	Inf	Inf	40	40	Inf	Galantamine	4
+Gal	Parabacteroides goldsteinii	Inf	Inf	Inf	Inf	Inf	Galantamine	4
+Gal	Parabacteroides johnsonii	Inf	Inf	Inf	Inf	Inf	Galantamine	4
+Gal	Phocaeicola dorei	Inf	Inf	360	40	Inf	Galantamine	4
+Gal	Phocaeicola vulgatus	Inf	Inf	Inf	Inf	Inf	Galantamine	4
+Gal	Prevotella intermedia	1	Inf	0.5	360	Inf	Galantamine	4
+Gal	[Ruminococcus] gnavus	Inf	Inf	Inf	360	Inf	Galantamine	4
+MTX	Akkermansia muciniphila	12	40	1	12	120	Methotrexate	100
+MTX	Alistipes onderdonkii	Inf	Inf	1	1	Inf	Methotrexate	100
+MTX	Bacteroides fragilis	4	40	0.5	12	40	Methotrexate	100
+MTX	Bacteroides ovatus	12	12	12	12	40	Methotrexate	100
+MTX	Bacteroides thetaiotaomicron	12	12	1	4	120	Methotrexate	100
+MTX	Bacteroides xylanisolvens	Inf	12	12	4	Inf	Methotrexate	100
+MTX	Bifidobacterium adolescentis	12	40	12	12	12	Methotrexate	100
+MTX	Bifidobacterium angulatum	4	12	1	1	12	Methotrexate	100
+MTX	Bifidobacterium animalis	1	4	0.5	0.5	Inf	Methotrexate	100
+MTX	Bifidobacterium breve	40	40	12	12	120	Methotrexate	100
+MTX	Bifidobacterium catenulatum	12	12	4	12	12	Methotrexate	100
+MTX	Bifidobacterium longum	120	120	40	40	120	Methotrexate	100
+MTX	Bifidobacterium pseudocatenulatum	12	12	4	12	12	Methotrexate	100
+MTX	Clostridium sporogenes	Inf	Inf	Inf	Inf	Inf	Methotrexate	100
+MTX	Clostridium thermopalmarium	Inf	Inf	40	Inf	Inf	Methotrexate	100
+MTX	Escherichia fergusonii	Inf	Inf	360	360	Inf	Methotrexate	100
+MTX	Eubacterium barkeri	Inf	Inf	Inf	Inf	Inf	Methotrexate	100
+MTX	Faecalibacterium prausnitzii	Inf	Inf	Inf	Inf	Inf	Methotrexate	100
+MTX	Fusobacterium nucleatum	40	40	0.5	1	120	Methotrexate	100
+MTX	Parabacteroides goldsteinii	Inf	Inf	Inf	Inf	Inf	Methotrexate	100
+MTX	Parabacteroides johnsonii	Inf	Inf	Inf	Inf	Inf	Methotrexate	100
+MTX	Phocaeicola dorei	1	1	1	1	120	Methotrexate	100
+MTX	Phocaeicola vulgatus	40	360	40	360	360	Methotrexate	100
+MTX	Prevotella intermedia	1	4	1	1	4	Methotrexate	100
+MTX	[Ruminococcus] gnavus	360	12	40	12	Inf	Methotrexate	100
+Sir	Akkermansia muciniphila	Inf	Inf	12	Inf	Inf	Sirolimus	8
+Sir	Alistipes onderdonkii	Inf	Inf	40	40	Inf	Sirolimus	8
+Sir	Bacteroides fragilis	40	120	4	40	Inf	Sirolimus	8
+Sir	Bacteroides ovatus	Inf	Inf	Inf	Inf	Inf	Sirolimus	8
+Sir	Bacteroides thetaiotaomicron	12	120	1	4	Inf	Sirolimus	8
+Sir	Bacteroides xylanisolvens	Inf	Inf	Inf	Inf	Inf	Sirolimus	8
+Sir	Bifidobacterium adolescentis	Inf	Inf	360	Inf	Inf	Sirolimus	8
+Sir	Bifidobacterium angulatum	Inf	Inf	120	360	Inf	Sirolimus	8
+Sir	Bifidobacterium animalis	Inf	Inf	120	360	Inf	Sirolimus	8
+Sir	Bifidobacterium breve	Inf	Inf	40	360	Inf	Sirolimus	8
+Sir	Bifidobacterium catenulatum	Inf	Inf	Inf	Inf	Inf	Sirolimus	8
+Sir	Bifidobacterium longum	Inf	Inf	Inf	Inf	Inf	Sirolimus	8
+Sir	Bifidobacterium pseudocatenulatum	Inf	Inf	40	Inf	Inf	Sirolimus	8
+Sir	Clostridium sporogenes	Inf	Inf	120	120	Inf	Sirolimus	8
+Sir	Clostridium thermopalmarium	Inf	Inf	40	Inf	Inf	Sirolimus	8
+Sir	Escherichia fergusonii	Inf	Inf	Inf	Inf	Inf	Sirolimus	8
+Sir	Eubacterium barkeri	Inf	Inf	Inf	4	Inf	Sirolimus	8
+Sir	Faecalibacterium prausnitzii	Inf	Inf	Inf	Inf	Inf	Sirolimus	8
+Sir	Fusobacterium nucleatum	Inf	Inf	Inf	Inf	Inf	Sirolimus	8
+Sir	Parabacteroides goldsteinii	Inf	Inf	360	360	Inf	Sirolimus	8
+Sir	Parabacteroides johnsonii	Inf	Inf	Inf	Inf	Inf	Sirolimus	8
+Sir	Phocaeicola dorei	40	40	12	40	40	Sirolimus	8
+Sir	Phocaeicola vulgatus	Inf	Inf	40	Inf	Inf	Sirolimus	8
+Sir	Prevotella intermedia	40	120	4	120	120	Sirolimus	8
+Sir	[Ruminococcus] gnavus	Inf	Inf	360	360	Inf	Sirolimus	8
+Ter	Akkermansia muciniphila	120	120	40	40	360	Teriflunomide	9
+Ter	Alistipes onderdonkii	12	12	4	1	120	Teriflunomide	9
+Ter	Bacteroides fragilis	12	12	4	4	120	Teriflunomide	9
+Ter	Bacteroides ovatus	12	12	1	1	40	Teriflunomide	9
+Ter	Bacteroides thetaiotaomicron	4	4	1	1	12	Teriflunomide	9
+Ter	Bacteroides xylanisolvens	12	12	1	1	360	Teriflunomide	9
+Ter	Bifidobacterium adolescentis	360	360	40	360	360	Teriflunomide	9
+Ter	Bifidobacterium angulatum	360	360	360	360	Inf	Teriflunomide	9
+Ter	Bifidobacterium animalis	Inf	360	360	120	Inf	Teriflunomide	9
+Ter	Bifidobacterium breve	360	360	120	40	360	Teriflunomide	9
+Ter	Bifidobacterium catenulatum	120	120	40	40	Inf	Teriflunomide	9
+Ter	Bifidobacterium longum	360	360	360	360	Inf	Teriflunomide	9
+Ter	Bifidobacterium pseudocatenulatum	120	120	12	12	Inf	Teriflunomide	9
+Ter	Clostridium sporogenes	Inf	Inf	Inf	Inf	Inf	Teriflunomide	9
+Ter	Clostridium thermopalmarium	360	360	120	360	360	Teriflunomide	9
+Ter	Escherichia fergusonii	Inf	Inf	120	Inf	Inf	Teriflunomide	9
+Ter	Eubacterium barkeri	360	360	120	120	360	Teriflunomide	9
+Ter	Faecalibacterium prausnitzii	360	120	120	4	360	Teriflunomide	9
+Ter	Fusobacterium nucleatum	120	120	40	120	120	Teriflunomide	9
+Ter	Parabacteroides goldsteinii	12	12	4	4	120	Teriflunomide	9
+Ter	Parabacteroides johnsonii	4	4	1	0.5	40	Teriflunomide	9
+Ter	Phocaeicola dorei	40	40	40	40	360	Teriflunomide	9
+Ter	Phocaeicola vulgatus	120	120	12	40	120	Teriflunomide	9
+Ter	Prevotella intermedia	120	120	120	120	120	Teriflunomide	9
+Ter	[Ruminococcus] gnavus	120	120	40	40	360	Teriflunomide	9
+Val	Akkermansia muciniphila	Inf	Inf	40	Inf	Inf	Valproic acid	85
+Val	Alistipes onderdonkii	Inf	Inf	1	1	Inf	Valproic acid	85
+Val	Bacteroides fragilis	Inf	Inf	Inf	Inf	Inf	Valproic acid	85
+Val	Bacteroides ovatus	Inf	Inf	Inf	Inf	Inf	Valproic acid	85
+Val	Bacteroides thetaiotaomicron	Inf	360	1	1	Inf	Valproic acid	85
+Val	Bacteroides xylanisolvens	Inf	Inf	1	Inf	Inf	Valproic acid	85
+Val	Bifidobacterium adolescentis	Inf	Inf	Inf	Inf	Inf	Valproic acid	85
+Val	Bifidobacterium angulatum	Inf	Inf	Inf	Inf	Inf	Valproic acid	85
+Val	Bifidobacterium animalis	Inf	Inf	Inf	Inf	Inf	Valproic acid	85
+Val	Bifidobacterium breve	Inf	Inf	Inf	Inf	Inf	Valproic acid	85
+Val	Bifidobacterium catenulatum	Inf	Inf	Inf	Inf	Inf	Valproic acid	85
+Val	Bifidobacterium longum	Inf	Inf	Inf	Inf	Inf	Valproic acid	85
+Val	Bifidobacterium pseudocatenulatum	Inf	Inf	Inf	Inf	Inf	Valproic acid	85
+Val	Clostridium sporogenes	Inf	Inf	Inf	Inf	Inf	Valproic acid	85
+Val	Clostridium thermopalmarium	Inf	Inf	Inf	Inf	Inf	Valproic acid	85
+Val	Escherichia fergusonii	Inf	Inf	Inf	Inf	Inf	Valproic acid	85
+Val	Eubacterium barkeri	Inf	Inf	Inf	Inf	Inf	Valproic acid	85
+Val	Faecalibacterium prausnitzii	Inf	Inf	Inf	Inf	Inf	Valproic acid	85
+Val	Fusobacterium nucleatum	Inf	Inf	360	Inf	Inf	Valproic acid	85
+Val	Parabacteroides goldsteinii	Inf	Inf	Inf	Inf	Inf	Valproic acid	85
+Val	Parabacteroides johnsonii	Inf	Inf	Inf	0.5	Inf	Valproic acid	85
+Val	Phocaeicola dorei	Inf	Inf	Inf	Inf	Inf	Valproic acid	85
+Val	Phocaeicola vulgatus	Inf	Inf	Inf	Inf	Inf	Valproic acid	85
+Val	Prevotella intermedia	360	Inf	360	360	Inf	Valproic acid	85
+Val	[Ruminococcus] gnavus	Inf	Inf	360	Inf	Inf	Valproic acid	85
+Vil	Akkermansia muciniphila	Inf	Inf	120	Inf	Inf	Vildagliptin	25
+Vil	Alistipes onderdonkii	Inf	Inf	1	1	Inf	Vildagliptin	25
+Vil	Bacteroides fragilis	Inf	Inf	4	360	Inf	Vildagliptin	25
+Vil	Bacteroides ovatus	Inf	Inf	Inf	Inf	Inf	Vildagliptin	25
+Vil	Bacteroides thetaiotaomicron	Inf	Inf	1	4	Inf	Vildagliptin	25
+Vil	Bacteroides xylanisolvens	Inf	Inf	Inf	Inf	Inf	Vildagliptin	25
+Vil	Bifidobacterium adolescentis	Inf	Inf	Inf	360	Inf	Vildagliptin	25
+Vil	Bifidobacterium angulatum	Inf	Inf	Inf	Inf	Inf	Vildagliptin	25
+Vil	Bifidobacterium animalis	Inf	Inf	Inf	Inf	Inf	Vildagliptin	25
+Vil	Bifidobacterium breve	Inf	Inf	Inf	Inf	Inf	Vildagliptin	25
+Vil	Bifidobacterium catenulatum	Inf	Inf	Inf	Inf	Inf	Vildagliptin	25
+Vil	Bifidobacterium longum	Inf	Inf	Inf	Inf	Inf	Vildagliptin	25
+Vil	Bifidobacterium pseudocatenulatum	Inf	Inf	Inf	Inf	Inf	Vildagliptin	25
+Vil	Clostridium sporogenes	Inf	Inf	Inf	Inf	Inf	Vildagliptin	25
+Vil	Clostridium thermopalmarium	Inf	Inf	Inf	Inf	Inf	Vildagliptin	25
+Vil	Escherichia fergusonii	Inf	Inf	120	Inf	Inf	Vildagliptin	25
+Vil	Eubacterium barkeri	Inf	Inf	Inf	Inf	Inf	Vildagliptin	25
+Vil	Faecalibacterium prausnitzii	Inf	Inf	Inf	Inf	Inf	Vildagliptin	25
+Vil	Fusobacterium nucleatum	Inf	Inf	Inf	Inf	Inf	Vildagliptin	25
+Vil	Parabacteroides goldsteinii	Inf	Inf	Inf	Inf	Inf	Vildagliptin	25
+Vil	Parabacteroides johnsonii	Inf	Inf	Inf	Inf	Inf	Vildagliptin	25
+Vil	Phocaeicola dorei	Inf	Inf	40	Inf	Inf	Vildagliptin	25
+Vil	Phocaeicola vulgatus	Inf	Inf	Inf	Inf	Inf	Vildagliptin	25
+Vil	Prevotella intermedia	360	360	360	360	360	Vildagliptin	25
+Vil	[Ruminococcus] gnavus	Inf	Inf	Inf	Inf	Inf	Vildagliptin	25

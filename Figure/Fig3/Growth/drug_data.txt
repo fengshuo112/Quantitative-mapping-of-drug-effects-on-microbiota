@@ -1,0 +1,11 @@
+Drug	Fraction excreted in feces	Other	Concentration	x	y	ATC
+Methotrexate	0.4	0.6	100	1	10	Immunosuppressants. Antineoplastic agents
+Teriflunomide	0.375	0.625	9	1	9	Immunosuppressants
+Enasidenib	0.89	0.11	150	1	8	Antineoplastic agents
+Valproic acid	0	0	85	1	7	Antiepileptics
+Galantamine	0.05	0.95	4	1	6	Psychoanaleptics
+Sirolimus	0.91	0.09	8	1	5	Immunosuppressants. Ophthalmologicals
+Mercaptopurine	0	1	17	1	4	Antineoplastic agents. Drugs for obstructive airway diseases
+Cyclosporine	0.90	0.10	150	1	3	Immunosuppressants. Ophthalmologicals
+Vildagliptin	0.15	0.85	25	1	2	Drugs used in diabetes 
+Canagliflozin	0.415	0.585	200	1	1	Drugs used in diabetes
