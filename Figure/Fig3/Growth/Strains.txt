@@ -1,8 +1,8 @@
 strain_reocrd	label	label2	label3	label4	strain	Genus	phylum
 Akkermansia muciniphila ATCC BAA-835	Akkermansia muciniphila	Akk. muciniphila	A. muciniphila	A. muc	Akkermansia muciniphila	Akkermansia	Verrucomicrobia
 Alistipes onderdonkii ATCC BAA-1178	Alistipes onderdonkii	Ali. onderdonkii	A. onderdonkii	A. ond	Alistipes onderdonkii         	Alistipes	Bacteroidota
-Bacteroides dorei DSM 17855	Bacteroides dorei	Bac. dorei	B. dorei	B. dor	Phocaeicola dorei             	Bacteroides	Bacteroidota
-Bacteroides vulgatus ATCC 8482	Bacteroides vulgatus	Bac. vulgatus	B. vulgatus	B. vul	Phocaeicola vulgatus          	Bacteroides	Bacteroidota
+Bacteroides dorei DSM 17855	Bacteroides dorei	Bac. dorei	B. dorei	B. dor	Bacteroides dorei             	Bacteroides	Bacteroidota
+Bacteroides vulgatus ATCC 8482	Bacteroides vulgatus	Bac. vulgatus	B. vulgatus	B. vul	Bacteroides vulgatus          	Bacteroides	Bacteroidota
 Bacteroides fragilis ATCC 25285	Bacteroides fragilis	Bac. fragilis	B. fragilis	B. fra	Bacteroides fragilis          	Bacteroides	Bacteroidota
 Bacteroides ovatus JCM 5824	Bacteroides ovatus	Bac. ovatus	B. ovatus	B. ova	Bacteroides ovatus            	Bacteroides	Bacteroidota
 Bacteroides thetaiotaomicron JCM 5827	Bacteroides thetaiotaomicron	Bac. thetaiotaomicron	B. thetaiotaomicron	B. the	Bacteroides thetaiotaomicron  	Bacteroides	Bacteroidota

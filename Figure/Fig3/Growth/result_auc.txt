@@ -20,8 +20,8 @@ drug	strain	auc_ic50	max_ic50	auc_ic25	max_ic25	auc_mic	Drug	Conc
 6MP	Fusobacterium nucleatum	Inf	Inf	Inf	Inf	Inf	Mercaptopurine	17
 6MP	Parabacteroides goldsteinii	Inf	Inf	Inf	Inf	Inf	Mercaptopurine	17
 6MP	Parabacteroides johnsonii	Inf	Inf	Inf	Inf	Inf	Mercaptopurine	17
-6MP	Phocaeicola dorei	Inf	Inf	Inf	Inf	Inf	Mercaptopurine	17
-6MP	Phocaeicola vulgatus	Inf	Inf	120	Inf	Inf	Mercaptopurine	17
+6MP	Bacteroides dorei	Inf	Inf	Inf	Inf	Inf	Mercaptopurine	17
+6MP	Bacteroides vulgatus	Inf	Inf	120	Inf	Inf	Mercaptopurine	17
 6MP	Prevotella intermedia	360	360	360	360	360	Mercaptopurine	17
 6MP	[Ruminococcus] gnavus	Inf	Inf	Inf	Inf	Inf	Mercaptopurine	17
 Can	Akkermansia muciniphila	120	120	1	120	360	Canagliflozin	200
@@ -45,8 +45,8 @@ Can	Faecalibacterium prausnitzii	360	360	360	360	360	Canagliflozin	200
 Can	Fusobacterium nucleatum	40	120	40	40	120	Canagliflozin	200
 Can	Parabacteroides goldsteinii	360	360	120	120	360	Canagliflozin	200
 Can	Parabacteroides johnsonii	40	40	40	12	120	Canagliflozin	200
-Can	Phocaeicola dorei	40	40	40	40	40	Canagliflozin	200
-Can	Phocaeicola vulgatus	40	120	40	40	120	Canagliflozin	200
+Can	Bacteroides dorei	40	40	40	40	40	Canagliflozin	200
+Can	Bacteroides vulgatus	40	120	40	40	120	Canagliflozin	200
 Can	Prevotella intermedia	40	120	40	120	120	Canagliflozin	200
 Can	[Ruminococcus] gnavus	40	120	12	40	120	Canagliflozin	200
 Cyc	Akkermansia muciniphila	Inf	Inf	12	Inf	Inf	Cyclosporine	150
@@ -70,8 +70,8 @@ Cyc	Faecalibacterium prausnitzii	Inf	Inf	Inf	Inf	Inf	Cyclosporine	150
 Cyc	Fusobacterium nucleatum	Inf	Inf	1	Inf	Inf	Cyclosporine	150
 Cyc	Parabacteroides goldsteinii	Inf	Inf	Inf	Inf	Inf	Cyclosporine	150
 Cyc	Parabacteroides johnsonii	Inf	Inf	360	360	Inf	Cyclosporine	150
-Cyc	Phocaeicola dorei	40	Inf	12	12	Inf	Cyclosporine	150
-Cyc	Phocaeicola vulgatus	Inf	Inf	40	Inf	Inf	Cyclosporine	150
+Cyc	Bacteroides dorei	40	Inf	12	12	Inf	Cyclosporine	150
+Cyc	Bacteroides vulgatus	Inf	Inf	40	Inf	Inf	Cyclosporine	150
 Cyc	Prevotella intermedia	Inf	360	Inf	360	Inf	Cyclosporine	150
 Cyc	[Ruminococcus] gnavus	Inf	Inf	360	360	Inf	Cyclosporine	150
 En	Akkermansia muciniphila	Inf	Inf	Inf	Inf	Inf	Enasidenib	150
@@ -95,8 +95,8 @@ En	Faecalibacterium prausnitzii	Inf	Inf	Inf	Inf	Inf	Enasidenib	150
 En	Fusobacterium nucleatum	Inf	Inf	Inf	Inf	Inf	Enasidenib	150
 En	Parabacteroides goldsteinii	Inf	Inf	4	Inf	Inf	Enasidenib	150
 En	Parabacteroides johnsonii	40	40	12	12	Inf	Enasidenib	150
-En	Phocaeicola dorei	Inf	Inf	40	40	Inf	Enasidenib	150
-En	Phocaeicola vulgatus	Inf	Inf	Inf	Inf	Inf	Enasidenib	150
+En	Bacteroides dorei	Inf	Inf	40	40	Inf	Enasidenib	150
+En	Bacteroides vulgatus	Inf	Inf	Inf	Inf	Inf	Enasidenib	150
 En	Prevotella intermedia	360	360	360	360	Inf	Enasidenib	150
 En	[Ruminococcus] gnavus	Inf	Inf	360	360	Inf	Enasidenib	150
 Gal	Akkermansia muciniphila	Inf	Inf	Inf	Inf	Inf	Galantamine	4
@@ -120,8 +120,8 @@ Gal	Faecalibacterium prausnitzii	Inf	Inf	Inf	Inf	Inf	Galantamine	4
 Gal	Fusobacterium nucleatum	Inf	Inf	40	40	Inf	Galantamine	4
 Gal	Parabacteroides goldsteinii	Inf	Inf	Inf	Inf	Inf	Galantamine	4
 Gal	Parabacteroides johnsonii	Inf	Inf	Inf	Inf	Inf	Galantamine	4
-Gal	Phocaeicola dorei	Inf	Inf	360	40	Inf	Galantamine	4
-Gal	Phocaeicola vulgatus	Inf	Inf	Inf	Inf	Inf	Galantamine	4
+Gal	Bacteroides dorei	Inf	Inf	360	40	Inf	Galantamine	4
+Gal	Bacteroides vulgatus	Inf	Inf	Inf	Inf	Inf	Galantamine	4
 Gal	Prevotella intermedia	1	Inf	0.5	360	Inf	Galantamine	4
 Gal	[Ruminococcus] gnavus	Inf	Inf	Inf	360	Inf	Galantamine	4
 MTX	Akkermansia muciniphila	12	40	1	12	120	Methotrexate	100
@@ -145,8 +145,8 @@ MTX	Faecalibacterium prausnitzii	Inf	Inf	Inf	Inf	Inf	Methotrexate	100
 MTX	Fusobacterium nucleatum	40	40	0.5	1	120	Methotrexate	100
 MTX	Parabacteroides goldsteinii	Inf	Inf	Inf	Inf	Inf	Methotrexate	100
 MTX	Parabacteroides johnsonii	Inf	Inf	Inf	Inf	Inf	Methotrexate	100
-MTX	Phocaeicola dorei	1	1	1	1	120	Methotrexate	100
-MTX	Phocaeicola vulgatus	40	360	40	360	360	Methotrexate	100
+MTX	Bacteroides dorei	1	1	1	1	120	Methotrexate	100
+MTX	Bacteroides vulgatus	40	360	40	360	360	Methotrexate	100
 MTX	Prevotella intermedia	1	4	1	1	4	Methotrexate	100
 MTX	[Ruminococcus] gnavus	360	12	40	12	Inf	Methotrexate	100
 Sir	Akkermansia muciniphila	Inf	Inf	12	Inf	Inf	Sirolimus	8
@@ -170,8 +170,8 @@ Sir	Faecalibacterium prausnitzii	Inf	Inf	Inf	Inf	Inf	Sirolimus	8
 Sir	Fusobacterium nucleatum	Inf	Inf	Inf	Inf	Inf	Sirolimus	8
 Sir	Parabacteroides goldsteinii	Inf	Inf	360	360	Inf	Sirolimus	8
 Sir	Parabacteroides johnsonii	Inf	Inf	Inf	Inf	Inf	Sirolimus	8
-Sir	Phocaeicola dorei	40	40	12	40	40	Sirolimus	8
-Sir	Phocaeicola vulgatus	Inf	Inf	40	Inf	Inf	Sirolimus	8
+Sir	Bacteroides dorei	40	40	12	40	40	Sirolimus	8
+Sir	Bacteroides vulgatus	Inf	Inf	40	Inf	Inf	Sirolimus	8
 Sir	Prevotella intermedia	40	120	4	120	120	Sirolimus	8
 Sir	[Ruminococcus] gnavus	Inf	Inf	360	360	Inf	Sirolimus	8
 Ter	Akkermansia muciniphila	120	120	40	40	360	Teriflunomide	9
@@ -195,8 +195,8 @@ Ter	Faecalibacterium prausnitzii	360	120	120	4	360	Teriflunomide	9
 Ter	Fusobacterium nucleatum	120	120	40	120	120	Teriflunomide	9
 Ter	Parabacteroides goldsteinii	12	12	4	4	120	Teriflunomide	9
 Ter	Parabacteroides johnsonii	4	4	1	0.5	40	Teriflunomide	9
-Ter	Phocaeicola dorei	40	40	40	40	360	Teriflunomide	9
-Ter	Phocaeicola vulgatus	120	120	12	40	120	Teriflunomide	9
+Ter	Bacteroides dorei	40	40	40	40	360	Teriflunomide	9
+Ter	Bacteroides vulgatus	120	120	12	40	120	Teriflunomide	9
 Ter	Prevotella intermedia	120	120	120	120	120	Teriflunomide	9
 Ter	[Ruminococcus] gnavus	120	120	40	40	360	Teriflunomide	9
 Val	Akkermansia muciniphila	Inf	Inf	40	Inf	Inf	Valproic acid	85
@@ -220,8 +220,8 @@ Val	Faecalibacterium prausnitzii	Inf	Inf	Inf	Inf	Inf	Valproic acid	85
 Val	Fusobacterium nucleatum	Inf	Inf	360	Inf	Inf	Valproic acid	85
 Val	Parabacteroides goldsteinii	Inf	Inf	Inf	Inf	Inf	Valproic acid	85
 Val	Parabacteroides johnsonii	Inf	Inf	Inf	0.5	Inf	Valproic acid	85
-Val	Phocaeicola dorei	Inf	Inf	Inf	Inf	Inf	Valproic acid	85
-Val	Phocaeicola vulgatus	Inf	Inf	Inf	Inf	Inf	Valproic acid	85
+Val	Bacteroides dorei	Inf	Inf	Inf	Inf	Inf	Valproic acid	85
+Val	Bacteroides vulgatus	Inf	Inf	Inf	Inf	Inf	Valproic acid	85
 Val	Prevotella intermedia	360	Inf	360	360	Inf	Valproic acid	85
 Val	[Ruminococcus] gnavus	Inf	Inf	360	Inf	Inf	Valproic acid	85
 Vil	Akkermansia muciniphila	Inf	Inf	120	Inf	Inf	Vildagliptin	25
@@ -245,7 +245,7 @@ Vil	Faecalibacterium prausnitzii	Inf	Inf	Inf	Inf	Inf	Vildagliptin	25
 Vil	Fusobacterium nucleatum	Inf	Inf	Inf	Inf	Inf	Vildagliptin	25
 Vil	Parabacteroides goldsteinii	Inf	Inf	Inf	Inf	Inf	Vildagliptin	25
 Vil	Parabacteroides johnsonii	Inf	Inf	Inf	Inf	Inf	Vildagliptin	25
-Vil	Phocaeicola dorei	Inf	Inf	40	Inf	Inf	Vildagliptin	25
-Vil	Phocaeicola vulgatus	Inf	Inf	Inf	Inf	Inf	Vildagliptin	25
+Vil	Bacteroides dorei	Inf	Inf	40	Inf	Inf	Vildagliptin	25
+Vil	Bacteroides vulgatus	Inf	Inf	Inf	Inf	Inf	Vildagliptin	25
 Vil	Prevotella intermedia	360	360	360	360	360	Vildagliptin	25
 Vil	[Ruminococcus] gnavus	Inf	Inf	Inf	Inf	Inf	Vildagliptin	25
